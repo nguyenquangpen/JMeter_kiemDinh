@@ -1,0 +1,121 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1791953567466,1021,01_Trang chu (GET /),200,OK,Nguoi dung dat ve 1-1,text,true,,4761,180,3,3,https://blazedemo.com/,1020,0,724
+1791953567711,1137,01_Trang chu (GET /),200,OK,Nguoi dung dat ve 1-2,text,true,,4757,180,3,3,https://blazedemo.com/,811,0,479
+1791953568981,422,01_Trang chu (GET /),200,OK,Nguoi dung dat ve 1-3,text,true,,4761,180,4,4,https://blazedemo.com/,417,0,104
+1791953569658,353,02_Tim chuyen bay (POST /reserve.php),200,OK,Nguoi dung dat ve 1-1,text,true,,7381,310,4,4,https://blazedemo.com/reserve.php,303,0,0
+1791953570140,389,01_Trang chu (GET /),200,OK,Nguoi dung dat ve 1-4,text,true,,4757,180,5,5,https://blazedemo.com/,388,0,103
+1791953570154,409,02_Tim chuyen bay (POST /reserve.php),200,OK,Nguoi dung dat ve 1-3,text,true,,7341,305,5,5,https://blazedemo.com/reserve.php,369,0,0
+1791953569489,1130,02_Tim chuyen bay (POST /reserve.php),200,OK,Nguoi dung dat ve 1-2,text,true,,7373,309,5,5,https://blazedemo.com/reserve.php,333,0,0
+1791953570941,336,03_Chon chuyen bay (POST /purchase.php),200,OK,Nguoi dung dat ve 1-1,text,true,,6715,355,6,6,https://blazedemo.com/purchase.php,302,0,0
+1791953571159,286,03_Chon chuyen bay (POST /purchase.php),200,OK,Nguoi dung dat ve 1-3,text,true,,6715,350,6,6,https://blazedemo.com/purchase.php,271,0,0
+1791953571559,313,02_Tim chuyen bay (POST /reserve.php),200,OK,Nguoi dung dat ve 1-4,text,true,,7357,307,6,6,https://blazedemo.com/reserve.php,309,0,0
+1791953571296,845,01_Trang chu (GET /),200,OK,Nguoi dung dat ve 1-5,text,true,,4757,180,7,7,https://blazedemo.com/,842,0,581
+1791953572055,311,03_Chon chuyen bay (POST /purchase.php),200,OK,Nguoi dung dat ve 1-2,text,true,,6715,356,7,7,https://blazedemo.com/purchase.php,301,0,0
+1791953572272,311,04_Thanh toan (POST /confirmation.php),200,OK,Nguoi dung dat ve 1-3,text,true,,5784,418,7,7,https://blazedemo.com/confirmation.php,307,0,0
+1791953572211,423,01_Trang chu (GET /),200,OK,Nguoi dung dat ve 1-6,text,true,,4757,180,7,7,https://blazedemo.com/,422,0,110
+1791953572735,317,04_Thanh toan (POST /confirmation.php),200,OK,Nguoi dung dat ve 1-1,text,true,,5780,418,8,8,https://blazedemo.com/confirmation.php,312,0,0
+1791953573261,313,03_Chon chuyen bay (POST /purchase.php),200,OK,Nguoi dung dat ve 1-4,text,true,,6715,354,8,8,https://blazedemo.com/purchase.php,309,0,0
+1791953573322,321,04_Thanh toan (POST /confirmation.php),200,OK,Nguoi dung dat ve 1-2,text,true,,5780,418,8,8,https://blazedemo.com/confirmation.php,321,0,0
+1791953573447,318,01_Trang chu (GET /),200,OK,Nguoi dung dat ve 1-3,text,true,,4757,180,8,8,https://blazedemo.com/,314,0,0
+1791953573556,306,02_Tim chuyen bay (POST /reserve.php),200,OK,Nguoi dung dat ve 1-5,text,true,,7381,310,8,8,https://blazedemo.com/reserve.php,304,0,0
+1791953573416,549,01_Trang chu (GET /),200,OK,Nguoi dung dat ve 1-7,text,true,,4761,180,8,8,https://blazedemo.com/,546,0,206
+1791953573863,361,02_Tim chuyen bay (POST /reserve.php),200,OK,Nguoi dung dat ve 1-6,text,true,,7381,310,9,9,https://blazedemo.com/reserve.php,299,0,0
+1791953574207,311,01_Trang chu (GET /),200,OK,Nguoi dung dat ve 1-1,text,true,,4757,180,9,9,https://blazedemo.com/,309,0,0
+1791953574300,344,02_Tim chuyen bay (POST /reserve.php),200,OK,Nguoi dung dat ve 1-3,text,true,,7385,310,9,9,https://blazedemo.com/reserve.php,343,0,0
+1791953574115,689,01_Trang chu (GET /),200,OK,Nguoi dung dat ve 1-8,text,true,,4757,180,9,9,https://blazedemo.com/,688,0,398
+1791953574736,273,01_Trang chu (GET /),200,OK,Nguoi dung dat ve 1-2,text,true,,4757,180,10,10,https://blazedemo.com/,270,0,0
+1791953575030,344,04_Thanh toan (POST /confirmation.php),200,OK,Nguoi dung dat ve 1-4,text,true,,5784,418,10,10,https://blazedemo.com/confirmation.php,343,0,0
+1791953575015,421,03_Chon chuyen bay (POST /purchase.php),200,OK,Nguoi dung dat ve 1-6,text,true,,6715,355,10,10,https://blazedemo.com/purchase.php,325,0,0
+1791953575123,313,02_Tim chuyen bay (POST /reserve.php),200,OK,Nguoi dung dat ve 1-7,text,true,,7365,312,10,10,https://blazedemo.com/reserve.php,307,0,0
+1791953575294,320,03_Chon chuyen bay (POST /purchase.php),200,OK,Nguoi dung dat ve 1-5,text,true,,6715,355,10,10,https://blazedemo.com/purchase.php,316,0,0
+1791953575357,284,02_Tim chuyen bay (POST /reserve.php),200,OK,Nguoi dung dat ve 1-1,text,true,,7341,305,10,10,https://blazedemo.com/reserve.php,278,0,0
+1791953575311,709,01_Trang chu (GET /),200,OK,Nguoi dung dat ve 1-9,text,true,,4757,180,10,10,https://blazedemo.com/,704,0,407
+1791953575885,375,02_Tim chuyen bay (POST /reserve.php),200,OK,Nguoi dung dat ve 1-8,text,true,,7373,309,10,10,https://blazedemo.com/reserve.php,374,0,0
+1791953575885,449,02_Tim chuyen bay (POST /reserve.php),200,OK,Nguoi dung dat ve 1-2,text,true,,7357,307,10,10,https://blazedemo.com/reserve.php,448,0,0
+1791953576009,357,03_Chon chuyen bay (POST /purchase.php),200,OK,Nguoi dung dat ve 1-3,text,true,,6715,359,10,10,https://blazedemo.com/purchase.php,307,0,0
+1791953576305,312,04_Thanh toan (POST /confirmation.php),200,OK,Nguoi dung dat ve 1-6,text,true,,5780,418,10,10,https://blazedemo.com/confirmation.php,307,0,0
+1791953576367,299,03_Chon chuyen bay (POST /purchase.php),200,OK,Nguoi dung dat ve 1-7,text,true,,6715,356,10,10,https://blazedemo.com/purchase.php,292,0,0
+1791953576321,414,01_Trang chu (GET /),200,OK,Nguoi dung dat ve 1-10,text,true,,4757,180,10,10,https://blazedemo.com/,410,0,94
+1791953576582,294,04_Thanh toan (POST /confirmation.php),200,OK,Nguoi dung dat ve 1-5,text,true,,5780,418,10,10,https://blazedemo.com/confirmation.php,289,0,0
+1791953576660,320,02_Tim chuyen bay (POST /reserve.php),200,OK,Nguoi dung dat ve 1-9,text,true,,7381,310,10,10,https://blazedemo.com/reserve.php,313,0,0
+1791953576782,267,01_Trang chu (GET /),200,OK,Nguoi dung dat ve 1-4,text,true,,4757,180,10,10,https://blazedemo.com/,263,0,0
+1791953577075,326,03_Chon chuyen bay (POST /purchase.php),200,OK,Nguoi dung dat ve 1-1,text,true,,6715,349,10,10,https://blazedemo.com/purchase.php,322,0,0
+1791953577152,349,04_Thanh toan (POST /confirmation.php),200,OK,Nguoi dung dat ve 1-3,text,true,,5780,418,10,10,https://blazedemo.com/confirmation.php,347,0,0
+1791953577244,289,04_Thanh toan (POST /confirmation.php),200,OK,Nguoi dung dat ve 1-7,text,true,,5780,418,10,10,https://blazedemo.com/confirmation.php,287,0,0
+1791953577366,295,03_Chon chuyen bay (POST /purchase.php),200,OK,Nguoi dung dat ve 1-8,text,true,,6719,354,10,10,https://blazedemo.com/purchase.php,289,0,0
+1791953577863,295,02_Tim chuyen bay (POST /reserve.php),200,OK,Nguoi dung dat ve 1-4,text,true,,7365,312,10,10,https://blazedemo.com/reserve.php,290,0,0
+1791953577908,275,03_Chon chuyen bay (POST /purchase.php),200,OK,Nguoi dung dat ve 1-9,text,true,,6719,355,10,10,https://blazedemo.com/purchase.php,271,0,0
+1791953577954,315,01_Trang chu (GET /),200,OK,Nguoi dung dat ve 1-6,text,true,,4757,180,10,10,https://blazedemo.com/,310,0,0
+1791953577691,706,03_Chon chuyen bay (POST /purchase.php),200,OK,Nguoi dung dat ve 1-2,text,true,,6719,354,10,10,https://blazedemo.com/purchase.php,345,0,0
+1791953578188,346,02_Tim chuyen bay (POST /reserve.php),200,OK,Nguoi dung dat ve 1-10,text,true,,7381,310,10,10,https://blazedemo.com/reserve.php,339,0,0
+1791953578340,269,01_Trang chu (GET /),200,OK,Nguoi dung dat ve 1-5,text,true,,4761,180,10,10,https://blazedemo.com/,265,0,0
+1791953578527,309,04_Thanh toan (POST /confirmation.php),200,OK,Nguoi dung dat ve 1-1,text,true,,5780,418,10,10,https://blazedemo.com/confirmation.php,306,0,0
+1791953578697,316,04_Thanh toan (POST /confirmation.php),200,OK,Nguoi dung dat ve 1-8,text,true,,5780,418,10,10,https://blazedemo.com/confirmation.php,315,0,0
+1791953578698,315,01_Trang chu (GET /),200,OK,Nguoi dung dat ve 1-7,text,true,,4757,180,10,10,https://blazedemo.com/,314,0,0
+1791953578972,311,02_Tim chuyen bay (POST /reserve.php),200,OK,Nguoi dung dat ve 1-6,text,true,,7381,310,10,10,https://blazedemo.com/reserve.php,308,0,0
+1791953578834,548,01_Trang chu (GET /),200,OK,Nguoi dung dat ve 1-3,text,true,,4757,180,10,10,https://blazedemo.com/,268,0,0
+1791953579175,329,04_Thanh toan (POST /confirmation.php),200,OK,Nguoi dung dat ve 1-9,text,true,,5780,418,10,10,https://blazedemo.com/confirmation.php,326,0,0
+1791953579471,330,03_Chon chuyen bay (POST /purchase.php),200,OK,Nguoi dung dat ve 1-10,text,true,,6715,359,10,10,https://blazedemo.com/purchase.php,291,0,0
+1791953579549,316,02_Tim chuyen bay (POST /reserve.php),200,OK,Nguoi dung dat ve 1-7,text,true,,7357,307,10,10,https://blazedemo.com/reserve.php,310,0,0
+1791953579564,349,03_Chon chuyen bay (POST /purchase.php),200,OK,Nguoi dung dat ve 1-4,text,true,,6719,357,10,10,https://blazedemo.com/purchase.php,345,0,0
+1791953579687,354,01_Trang chu (GET /),200,OK,Nguoi dung dat ve 1-8,text,true,,4761,180,10,10,https://blazedemo.com/,353,0,0
+1791953579812,305,04_Thanh toan (POST /confirmation.php),200,OK,Nguoi dung dat ve 1-2,text,true,,5780,418,10,10,https://blazedemo.com/confirmation.php,300,0,0
+1791953579827,337,02_Tim chuyen bay (POST /reserve.php),200,OK,Nguoi dung dat ve 1-5,text,true,,7373,309,10,10,https://blazedemo.com/reserve.php,331,0,0
+1791953580104,356,03_Chon chuyen bay (POST /purchase.php),200,OK,Nguoi dung dat ve 1-6,text,true,,6715,357,10,10,https://blazedemo.com/purchase.php,354,0,0
+1791953580258,280,01_Trang chu (GET /),200,OK,Nguoi dung dat ve 1-1,text,true,,4757,180,10,10,https://blazedemo.com/,279,0,0
+1791953580474,330,03_Chon chuyen bay (POST /purchase.php),200,OK,Nguoi dung dat ve 1-7,text,true,,6715,354,10,10,https://blazedemo.com/purchase.php,325,0,0
+1791953580658,310,04_Thanh toan (POST /confirmation.php),200,OK,Nguoi dung dat ve 1-4,text,true,,5780,418,10,10,https://blazedemo.com/confirmation.php,303,0,0
+1791953580611,593,01_Trang chu (GET /),200,OK,Nguoi dung dat ve 1-9,text,true,,4757,180,10,10,https://blazedemo.com/,311,0,0
+1791953580734,480,02_Tim chuyen bay (POST /reserve.php),200,OK,Nguoi dung dat ve 1-3,text,true,,7341,305,10,10,https://blazedemo.com/reserve.php,325,0,0
+1791953580964,368,03_Chon chuyen bay (POST /purchase.php),200,OK,Nguoi dung dat ve 1-5,text,true,,6715,354,10,10,https://blazedemo.com/purchase.php,324,0,0
+1791953581087,273,04_Thanh toan (POST /confirmation.php),200,OK,Nguoi dung dat ve 1-10,text,true,,5784,419,10,10,https://blazedemo.com/confirmation.php,270,0,0
+1791953580627,760,01_Trang chu (GET /),200,OK,Nguoi dung dat ve 1-2,text,true,,4757,180,10,10,https://blazedemo.com/,322,0,0
+1791953581257,339,04_Thanh toan (POST /confirmation.php),200,OK,Nguoi dung dat ve 1-6,text,true,,5780,418,10,10,https://blazedemo.com/confirmation.php,338,0,0
+1791953581257,378,02_Tim chuyen bay (POST /reserve.php),200,OK,Nguoi dung dat ve 1-1,text,true,,7381,310,10,10,https://blazedemo.com/reserve.php,326,0,0
+1791953581396,280,02_Tim chuyen bay (POST /reserve.php),200,OK,Nguoi dung dat ve 1-8,text,true,,7381,310,10,10,https://blazedemo.com/reserve.php,274,0,0
+1791953581964,399,04_Thanh toan (POST /confirmation.php),200,OK,Nguoi dung dat ve 1-7,text,true,,5780,418,10,10,https://blazedemo.com/confirmation.php,347,0,0
+1791953582057,377,02_Tim chuyen bay (POST /reserve.php),200,OK,Nguoi dung dat ve 1-9,text,true,,7365,312,10,10,https://blazedemo.com/reserve.php,372,0,0
+1791953582242,280,01_Trang chu (GET /),200,OK,Nguoi dung dat ve 1-10,text,true,,4761,180,10,10,https://blazedemo.com/,280,0,0
+1791953582165,357,04_Thanh toan (POST /confirmation.php),200,OK,Nguoi dung dat ve 1-5,text,true,,5780,418,10,10,https://blazedemo.com/confirmation.php,357,0,0
+1791953582211,385,01_Trang chu (GET /),200,OK,Nguoi dung dat ve 1-4,text,true,,4757,180,10,10,https://blazedemo.com/,381,0,0
+1791953581980,625,03_Chon chuyen bay (POST /purchase.php),200,OK,Nguoi dung dat ve 1-3,text,true,,6715,354,10,10,https://blazedemo.com/purchase.php,592,0,0
+1791953582333,305,03_Chon chuyen bay (POST /purchase.php),200,OK,Nguoi dung dat ve 1-1,text,true,,6715,357,10,10,https://blazedemo.com/purchase.php,302,0,0
+1791953582594,361,02_Tim chuyen bay (POST /reserve.php),200,OK,Nguoi dung dat ve 1-2,text,true,,7385,310,10,10,https://blazedemo.com/reserve.php,359,0,0
+1791953582716,280,01_Trang chu (GET /),200,OK,Nguoi dung dat ve 1-6,text,true,,4757,180,10,10,https://blazedemo.com/,278,0,0
+1791953582916,305,03_Chon chuyen bay (POST /purchase.php),200,OK,Nguoi dung dat ve 1-8,text,true,,6715,357,10,10,https://blazedemo.com/purchase.php,302,0,0
+1791953583144,343,03_Chon chuyen bay (POST /purchase.php),200,OK,Nguoi dung dat ve 1-9,text,true,,6715,356,10,10,https://blazedemo.com/purchase.php,338,0,0
+1791953583454,320,01_Trang chu (GET /),200,OK,Nguoi dung dat ve 1-7,text,true,,4757,180,10,10,https://blazedemo.com/,318,0,0
+1791953583608,272,01_Trang chu (GET /),200,OK,Nguoi dung dat ve 1-5,text,true,,4761,180,10,10,https://blazedemo.com/,268,0,0
+1791953583593,336,04_Thanh toan (POST /confirmation.php),200,OK,Nguoi dung dat ve 1-1,text,true,,5780,418,10,10,https://blazedemo.com/confirmation.php,331,0,0
+1791953583624,321,02_Tim chuyen bay (POST /reserve.php),200,OK,Nguoi dung dat ve 1-4,text,true,,7373,309,9,9,https://blazedemo.com/reserve.php,313,0,0
+1791953583686,284,02_Tim chuyen bay (POST /reserve.php),200,OK,Nguoi dung dat ve 1-6,text,true,,7357,307,9,9,https://blazedemo.com/reserve.php,280,0,0
+1791953583686,298,02_Tim chuyen bay (POST /reserve.php),200,OK,Nguoi dung dat ve 1-10,text,true,,7341,305,9,9,https://blazedemo.com/reserve.php,292,0,0
+1791953583809,370,04_Thanh toan (POST /confirmation.php),200,OK,Nguoi dung dat ve 1-3,text,true,,5780,418,9,9,https://blazedemo.com/confirmation.php,357,0,0
+1791953583824,380,03_Chon chuyen bay (POST /purchase.php),200,OK,Nguoi dung dat ve 1-2,text,true,,6715,357,8,8,https://blazedemo.com/purchase.php,379,0,0
+1791953583995,337,04_Thanh toan (POST /confirmation.php),200,OK,Nguoi dung dat ve 1-9,text,true,,5780,418,8,8,https://blazedemo.com/confirmation.php,331,0,0
+1791953584103,422,04_Thanh toan (POST /confirmation.php),200,OK,Nguoi dung dat ve 1-8,text,true,,5780,418,8,8,https://blazedemo.com/confirmation.php,422,0,0
+1791953584519,272,02_Tim chuyen bay (POST /reserve.php),200,OK,Nguoi dung dat ve 1-7,text,true,,7381,310,8,8,https://blazedemo.com/reserve.php,267,0,0
+1791953584519,391,03_Chon chuyen bay (POST /purchase.php),200,OK,Nguoi dung dat ve 1-6,text,true,,6715,356,8,8,https://blazedemo.com/purchase.php,390,0,0
+1791953584723,310,02_Tim chuyen bay (POST /reserve.php),200,OK,Nguoi dung dat ve 1-5,text,true,,7385,310,8,8,https://blazedemo.com/reserve.php,302,0,0
+1791953585160,453,01_Trang chu (GET /),200,OK,Nguoi dung dat ve 1-9,text,true,,4757,180,8,8,https://blazedemo.com/,452,0,0
+1791953585284,329,03_Chon chuyen bay (POST /purchase.php),200,OK,Nguoi dung dat ve 1-4,text,true,,6715,358,8,8,https://blazedemo.com/purchase.php,329,0,0
+1791953585315,313,03_Chon chuyen bay (POST /purchase.php),200,OK,Nguoi dung dat ve 1-10,text,true,,6715,352,8,8,https://blazedemo.com/purchase.php,309,0,0
+1791953585581,285,04_Thanh toan (POST /confirmation.php),200,OK,Nguoi dung dat ve 1-6,text,true,,5780,418,8,8,https://blazedemo.com/confirmation.php,281,0,0
+1791953585191,735,04_Thanh toan (POST /confirmation.php),200,OK,Nguoi dung dat ve 1-2,text,true,,5780,418,7,7,https://blazedemo.com/confirmation.php,418,0,0
+1791953586030,326,01_Trang chu (GET /),200,OK,Nguoi dung dat ve 1-8,text,true,,4757,180,6,6,https://blazedemo.com/,310,0,0
+1791953586046,387,03_Chon chuyen bay (POST /purchase.php),200,OK,Nguoi dung dat ve 1-5,text,true,,6715,359,6,6,https://blazedemo.com/purchase.php,387,0,0
+1791953586062,372,03_Chon chuyen bay (POST /purchase.php),200,OK,Nguoi dung dat ve 1-7,text,true,,6715,359,6,6,https://blazedemo.com/purchase.php,371,0,0
+1791953586669,278,04_Thanh toan (POST /confirmation.php),200,OK,Nguoi dung dat ve 1-4,text,true,,5780,418,6,6,https://blazedemo.com/confirmation.php,271,0,0
+1791953586434,625,02_Tim chuyen bay (POST /reserve.php),200,OK,Nguoi dung dat ve 1-9,text,true,,7365,312,5,5,https://blazedemo.com/reserve.php,267,0,0
+1791953587074,339,02_Tim chuyen bay (POST /reserve.php),200,OK,Nguoi dung dat ve 1-8,text,true,,7381,310,5,5,https://blazedemo.com/reserve.php,338,0,0
+1791953587013,471,04_Thanh toan (POST /confirmation.php),200,OK,Nguoi dung dat ve 1-10,text,true,,5784,419,5,5,https://blazedemo.com/confirmation.php,466,0,0
+1791953587043,460,04_Thanh toan (POST /confirmation.php),200,OK,Nguoi dung dat ve 1-5,text,true,,5780,418,5,5,https://blazedemo.com/confirmation.php,452,0,0
+1791953587369,328,04_Thanh toan (POST /confirmation.php),200,OK,Nguoi dung dat ve 1-7,text,true,,5780,418,4,4,https://blazedemo.com/confirmation.php,319,0,0
+1791953587725,322,03_Chon chuyen bay (POST /purchase.php),200,OK,Nguoi dung dat ve 1-9,text,true,,6715,359,3,3,https://blazedemo.com/purchase.php,315,0,0
+1791953588528,315,03_Chon chuyen bay (POST /purchase.php),200,OK,Nguoi dung dat ve 1-8,text,true,,6715,359,3,3,https://blazedemo.com/purchase.php,310,0,0
+1791953588574,323,01_Trang chu (GET /),200,OK,Nguoi dung dat ve 1-10,text,true,,4757,180,3,3,https://blazedemo.com/,321,0,0
+1791953589209,345,04_Thanh toan (POST /confirmation.php),200,OK,Nguoi dung dat ve 1-9,text,true,,5780,418,3,3,https://blazedemo.com/confirmation.php,340,0,0
+1791953589611,320,04_Thanh toan (POST /confirmation.php),200,OK,Nguoi dung dat ve 1-8,text,true,,5780,418,2,2,https://blazedemo.com/confirmation.php,316,0,0
+1791953590075,306,02_Tim chuyen bay (POST /reserve.php),200,OK,Nguoi dung dat ve 1-10,text,true,,7373,309,1,1,https://blazedemo.com/reserve.php,302,0,0
+1791953591611,325,03_Chon chuyen bay (POST /purchase.php),200,OK,Nguoi dung dat ve 1-10,text,true,,6715,358,1,1,https://blazedemo.com/purchase.php,321,0,0
+1791953592826,322,04_Thanh toan (POST /confirmation.php),200,OK,Nguoi dung dat ve 1-10,text,true,,5784,419,1,1,https://blazedemo.com/confirmation.php,319,0,0

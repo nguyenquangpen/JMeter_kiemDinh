@@ -1,0 +1,901 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1791953478989,574,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-1,text,true,,28459,211,3,3,https://jsonplaceholder.typicode.com/posts,561,0,482
+1791953479209,355,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-2,text,true,,28463,211,3,3,https://jsonplaceholder.typicode.com/posts,341,0,262
+1791953479540,215,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-3,text,true,,28459,211,4,4,https://jsonplaceholder.typicode.com/posts,209,0,133
+1791953479917,73,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-2,text,true,,1217,213,5,5,https://jsonplaceholder.typicode.com/posts/4,73,0,0
+1791953479873,232,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-4,text,true,,28469,211,5,5,https://jsonplaceholder.typicode.com/posts,227,0,156
+1791953479917,330,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-1,text,true,,1176,214,6,6,https://jsonplaceholder.typicode.com/posts/54,330,0,0
+1791953480204,168,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-5,text,true,,28463,211,6,6,https://jsonplaceholder.typicode.com/posts,163,0,109
+1791953480059,331,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-3,text,true,,1170,214,6,6,https://jsonplaceholder.typicode.com/posts/51,330,0,0
+1791953480295,312,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-2,text,true,,2538,222,7,7,https://jsonplaceholder.typicode.com/posts/4/comments,312,0,0
+1791953480409,324,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-4,text,true,,1224,214,7,7,https://jsonplaceholder.typicode.com/posts/73,324,0,0
+1791953480542,206,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-6,text,true,,28467,211,7,7,https://jsonplaceholder.typicode.com/posts,201,0,133
+1791953480557,306,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-1,text,true,,2530,223,7,7,https://jsonplaceholder.typicode.com/posts/54/comments,306,0,0
+1791953480683,301,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-5,text,true,,1172,214,8,8,https://jsonplaceholder.typicode.com/posts/40,301,0,0
+1791953480698,333,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-3,text,true,,2530,223,8,8,https://jsonplaceholder.typicode.com/posts/51/comments,333,0,0
+1791953480883,228,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-7,text,true,,28465,211,8,8,https://jsonplaceholder.typicode.com/posts,225,0,166
+1791953480912,310,04_POST tao bai viet (/posts),201,Created,API Clients 1-2,text,true,,1153,331,8,8,https://jsonplaceholder.typicode.com/posts,310,0,0
+1791953481050,321,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-6,text,true,,1181,214,9,9,https://jsonplaceholder.typicode.com/posts/19,321,0,0
+1791953481203,169,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-8,text,true,,28469,211,9,9,https://jsonplaceholder.typicode.com/posts,160,0,106
+1791953481034,342,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-4,text,true,,2487,223,9,9,https://jsonplaceholder.typicode.com/posts/73/comments,342,0,0
+1791953481165,305,04_POST tao bai viet (/posts),201,Created,API Clients 1-1,text,true,,1143,331,9,9,https://jsonplaceholder.typicode.com/posts,305,0,0
+1791953481285,299,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-5,text,true,,2526,223,10,10,https://jsonplaceholder.typicode.com/posts/40/comments,299,0,0
+1791953481334,311,04_POST tao bai viet (/posts),201,Created,API Clients 1-3,text,true,,1151,331,10,10,https://jsonplaceholder.typicode.com/posts,311,0,0
+1791953481414,298,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-7,text,true,,1203,214,10,10,https://jsonplaceholder.typicode.com/posts/94,298,0,0
+1791953481536,233,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-9,text,true,,28461,211,10,10,https://jsonplaceholder.typicode.com/posts,228,0,148
+1791953481675,301,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-8,text,true,,1178,214,11,11,https://jsonplaceholder.typicode.com/posts/55,301,0,0
+1791953481677,310,04_POST tao bai viet (/posts),201,Created,API Clients 1-4,text,true,,1147,331,11,11,https://jsonplaceholder.typicode.com/posts,310,0,0
+1791953481673,328,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-6,text,true,,2542,223,11,11,https://jsonplaceholder.typicode.com/posts/19/comments,328,0,0
+1791953481870,213,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-10,text,true,,28465,211,11,11,https://jsonplaceholder.typicode.com/posts,211,0,138
+1791953481524,760,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-2,text,true,,997,323,12,12,https://jsonplaceholder.typicode.com/posts/4,760,0,0
+1791953482013,315,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-7,text,true,,2505,223,12,12,https://jsonplaceholder.typicode.com/posts/94/comments,315,0,0
+1791953482070,307,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-9,text,true,,1189,214,12,12,https://jsonplaceholder.typicode.com/posts/96,307,0,0
+1791953482200,210,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-11,text,true,,28459,211,12,12,https://jsonplaceholder.typicode.com/posts,205,0,135
+1791953481771,798,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-1,text,true,,992,325,13,13,https://jsonplaceholder.typicode.com/posts/54,798,0,0
+1791953482278,315,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-8,text,true,,2501,223,13,13,https://jsonplaceholder.typicode.com/posts/55/comments,315,0,0
+1791953482304,309,04_POST tao bai viet (/posts),201,Created,API Clients 1-6,text,true,,1143,331,13,13,https://jsonplaceholder.typicode.com/posts,309,0,0
+1791953481900,752,04_POST tao bai viet (/posts),201,Created,API Clients 1-5,text,true,,1145,331,13,13,https://jsonplaceholder.typicode.com/posts,752,0,0
+1791953482386,331,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-10,text,true,,1181,214,13,13,https://jsonplaceholder.typicode.com/posts/29,331,0,0
+1791953481946,804,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-3,text,true,,996,325,13,13,https://jsonplaceholder.typicode.com/posts/51,804,0,0
+1791953482543,224,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-12,text,true,,28457,211,13,13,https://jsonplaceholder.typicode.com/posts,220,0,132
+1791953482586,300,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-2,text,true,,906,235,13,13,https://jsonplaceholder.typicode.com/posts/4,300,0,0
+1791953482629,307,04_POST tao bai viet (/posts),201,Created,API Clients 1-7,text,true,,1149,331,14,14,https://jsonplaceholder.typicode.com/posts,307,0,0
+1791953482678,345,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-9,text,true,,2485,223,14,14,https://jsonplaceholder.typicode.com/posts/96/comments,345,0,0
+1791953482713,315,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-11,text,true,,1179,214,14,14,https://jsonplaceholder.typicode.com/posts/25,315,0,0
+1791953482878,209,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-13,text,true,,28459,211,14,14,https://jsonplaceholder.typicode.com/posts,206,0,138
+1791953482288,800,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-4,text,true,,990,325,14,14,https://jsonplaceholder.typicode.com/posts/73,800,0,0
+1791953482878,299,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-1,text,true,,922,236,14,14,https://jsonplaceholder.typicode.com/posts/54,299,0,0
+1791953482909,289,04_POST tao bai viet (/posts),201,Created,API Clients 1-8,text,true,,1151,331,14,14,https://jsonplaceholder.typicode.com/posts,289,0,0
+1791953483189,132,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-2,text,true,,28463,211,15,15,https://jsonplaceholder.typicode.com/posts,67,0,0
+1791953483019,326,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-10,text,true,,2459,223,15,15,https://jsonplaceholder.typicode.com/posts/29/comments,325,0,0
+1791953483070,299,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-12,text,true,,1123,214,15,15,https://jsonplaceholder.typicode.com/posts/88,299,0,0
+1791953483053,321,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-3,text,true,,916,236,15,15,https://jsonplaceholder.typicode.com/posts/51,321,0,0
+1791953483207,211,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-14,text,true,,28457,211,15,15,https://jsonplaceholder.typicode.com/posts,205,0,131
+1791953483479,89,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-1,text,true,,28461,211,16,16,https://jsonplaceholder.typicode.com/posts,81,0,0
+1791953483330,305,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-11,text,true,,2562,223,16,16,https://jsonplaceholder.typicode.com/posts/25/comments,304,0,0
+1791953483325,313,04_POST tao bai viet (/posts),201,Created,API Clients 1-9,text,true,,1139,331,16,16,https://jsonplaceholder.typicode.com/posts,313,0,0
+1791953483390,309,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-4,text,true,,906,236,16,16,https://jsonplaceholder.typicode.com/posts/73,309,0,0
+1791953482914,805,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-6,text,true,,998,325,16,16,https://jsonplaceholder.typicode.com/posts/19,805,0,0
+1791953482953,777,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-5,text,true,,996,325,16,16,https://jsonplaceholder.typicode.com/posts/40,777,0,0
+1791953483676,85,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-3,text,true,,28471,211,16,16,https://jsonplaceholder.typicode.com/posts,76,0,0
+1791953483533,289,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-15,text,true,,28463,211,16,16,https://jsonplaceholder.typicode.com/posts,224,0,153
+1791953483623,325,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-2,text,true,,1121,214,17,17,https://jsonplaceholder.typicode.com/posts/88,325,0,0
+1791953483389,567,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-13,text,true,,1242,214,17,17,https://jsonplaceholder.typicode.com/posts/16,567,0,0
+1791953483646,313,04_POST tao bai viet (/posts),201,Created,API Clients 1-10,text,true,,1147,334,17,17,https://jsonplaceholder.typicode.com/posts,313,0,0
+1791953483237,743,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-7,text,true,,998,325,17,17,https://jsonplaceholder.typicode.com/posts/94,743,0,0
+1791953483671,323,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-12,text,true,,2626,223,17,17,https://jsonplaceholder.typicode.com/posts/88/comments,322,0,0
+1791953483719,318,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-14,text,true,,1148,214,17,17,https://jsonplaceholder.typicode.com/posts/70,318,0,0
+1791953483876,199,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-16,text,true,,28481,211,17,17,https://jsonplaceholder.typicode.com/posts,194,0,130
+1791953484003,75,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-4,text,true,,28463,211,17,17,https://jsonplaceholder.typicode.com/posts,68,0,0
+1791953483874,308,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-1,text,true,,1217,214,17,17,https://jsonplaceholder.typicode.com/posts/80,308,0,0
+1791953484125,78,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-15,text,true,,1161,214,17,17,https://jsonplaceholder.typicode.com/posts/10,78,0,0
+1791953483500,739,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-8,text,true,,994,325,18,18,https://jsonplaceholder.typicode.com/posts/55,739,0,0
+1791953483936,309,04_POST tao bai viet (/posts),201,Created,API Clients 1-11,text,true,,1145,334,18,18,https://jsonplaceholder.typicode.com/posts,309,0,0
+1791953484032,289,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-5,text,true,,908,236,18,18,https://jsonplaceholder.typicode.com/posts/40,289,0,0
+1791953484022,302,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-6,text,true,,908,236,18,18,https://jsonplaceholder.typicode.com/posts/19,302,0,0
+1791953484200,169,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-17,text,true,,28469,211,18,18,https://jsonplaceholder.typicode.com/posts,165,0,109
+1791953484063,317,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-3,text,true,,1240,214,18,18,https://jsonplaceholder.typicode.com/posts/75,317,0,0
+1791953484250,308,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-2,text,true,,2622,223,18,18,https://jsonplaceholder.typicode.com/posts/88/comments,308,0,0
+1791953484283,285,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-7,text,true,,908,236,19,19,https://jsonplaceholder.typicode.com/posts/94,285,0,0
+1791953484259,313,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-13,text,true,,2547,223,19,19,https://jsonplaceholder.typicode.com/posts/16/comments,313,0,0
+1791953484296,307,04_POST tao bai viet (/posts),201,Created,API Clients 1-12,text,true,,1147,334,19,19,https://jsonplaceholder.typicode.com/posts,307,0,0
+1791953484340,310,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-14,text,true,,2416,223,19,19,https://jsonplaceholder.typicode.com/posts/70/comments,310,0,0
+1791953484378,304,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-16,text,true,,1243,214,19,19,https://jsonplaceholder.typicode.com/posts/20,304,0,0
+1791953484380,315,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-4,text,true,,1159,214,19,19,https://jsonplaceholder.typicode.com/posts/64,315,0,0
+1791953484636,64,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-5,text,true,,28461,211,19,19,https://jsonplaceholder.typicode.com/posts,59,0,0
+1791953483939,765,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-9,text,true,,1004,325,19,19,https://jsonplaceholder.typicode.com/posts/96,765,0,0
+1791953484636,74,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-6,text,true,,28475,211,19,19,https://jsonplaceholder.typicode.com/posts,67,0,0
+1791953484544,206,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-18,text,true,,28467,211,19,19,https://jsonplaceholder.typicode.com/posts,201,0,131
+1791953484484,322,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-1,text,true,,2431,223,19,19,https://jsonplaceholder.typicode.com/posts/80/comments,322,0,0
+1791953484505,317,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-15,text,true,,2511,223,19,19,https://jsonplaceholder.typicode.com/posts/10/comments,316,0,0
+1791953484544,289,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-8,text,true,,904,236,19,19,https://jsonplaceholder.typicode.com/posts/55,289,0,0
+1791953484682,307,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-17,text,true,,1267,214,20,20,https://jsonplaceholder.typicode.com/posts/13,307,0,0
+1791953484682,331,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-3,text,true,,2664,223,20,20,https://jsonplaceholder.typicode.com/posts/75/comments,331,0,0
+1791953484262,761,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-10,text,true,,996,325,20,20,https://jsonplaceholder.typicode.com/posts/29,761,0,0
+1791953484866,309,04_POST tao bai viet (/posts),201,Created,API Clients 1-2,text,true,,1148,333,20,20,https://jsonplaceholder.typicode.com/posts,309,0,0
+1791953484880,315,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-7,text,true,,28465,211,20,20,https://jsonplaceholder.typicode.com/posts,56,0,0
+1791953485134,62,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-8,text,true,,28469,211,20,20,https://jsonplaceholder.typicode.com/posts,57,0,0
+1791953484866,384,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-19,text,true,,28463,211,21,21,https://jsonplaceholder.typicode.com/posts,329,0,148
+1791953484951,318,04_POST tao bai viet (/posts),201,Created,API Clients 1-14,text,true,,1149,334,21,21,https://jsonplaceholder.typicode.com/posts,317,0,0
+1791953484984,304,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-16,text,true,,2450,223,21,21,https://jsonplaceholder.typicode.com/posts/20/comments,304,0,0
+1791953484559,744,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-11,text,true,,994,325,21,21,https://jsonplaceholder.typicode.com/posts/25,744,0,0
+1791953485006,311,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-9,text,true,,910,236,21,21,https://jsonplaceholder.typicode.com/posts/96,311,0,0
+1791953484997,325,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-4,text,true,,2552,223,21,21,https://jsonplaceholder.typicode.com/posts/64/comments,325,0,0
+1791953485011,317,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-6,text,true,,1167,214,21,21,https://jsonplaceholder.typicode.com/posts/92,317,0,0
+1791953485002,330,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-5,text,true,,1199,214,21,21,https://jsonplaceholder.typicode.com/posts/11,330,0,0
+1791953485200,168,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-20,text,true,,28459,211,21,21,https://jsonplaceholder.typicode.com/posts,162,0,107
+1791953485052,323,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-18,text,true,,1189,214,21,21,https://jsonplaceholder.typicode.com/posts/53,323,0,0
+1791953485107,298,04_POST tao bai viet (/posts),201,Created,API Clients 1-1,text,true,,1148,333,21,21,https://jsonplaceholder.typicode.com/posts,298,0,0
+1791953485124,323,04_POST tao bai viet (/posts),201,Created,API Clients 1-15,text,true,,1147,334,21,21,https://jsonplaceholder.typicode.com/posts,323,0,0
+1791953485290,301,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-17,text,true,,2500,223,22,22,https://jsonplaceholder.typicode.com/posts/13/comments,301,0,0
+1791953485325,311,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-10,text,true,,906,236,22,22,https://jsonplaceholder.typicode.com/posts/29,311,0,0
+1791953485315,321,04_POST tao bai viet (/posts),201,Created,API Clients 1-3,text,true,,1160,333,22,22,https://jsonplaceholder.typicode.com/posts,321,0,0
+1791953484880,797,04_POST tao bai viet (/posts),201,Created,API Clients 1-13,text,true,,1151,334,22,22,https://jsonplaceholder.typicode.com/posts,797,0,0
+1791953485618,77,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-9,text,true,,28465,211,22,22,https://jsonplaceholder.typicode.com/posts,69,0,0
+1791953484911,808,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-12,text,true,,990,325,22,22,https://jsonplaceholder.typicode.com/posts/88,808,0,0
+1791953485531,217,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-21,text,true,,28463,211,22,22,https://jsonplaceholder.typicode.com/posts,214,0,142
+1791953485498,302,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-8,text,true,,1210,214,22,22,https://jsonplaceholder.typicode.com/posts/21,302,0,0
+1791953485497,318,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-7,text,true,,1214,214,22,22,https://jsonplaceholder.typicode.com/posts/35,318,0,0
+1791953485552,310,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-19,text,true,,1219,214,22,22,https://jsonplaceholder.typicode.com/posts/27,310,0,0
+1791953485589,310,04_POST tao bai viet (/posts),201,Created,API Clients 1-16,text,true,,1149,334,23,23,https://jsonplaceholder.typicode.com/posts,310,0,0
+1791953485605,311,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-11,text,true,,902,236,23,23,https://jsonplaceholder.typicode.com/posts/25,311,0,0
+1791953485623,333,04_POST tao bai viet (/posts),201,Created,API Clients 1-4,text,true,,1144,333,23,23,https://jsonplaceholder.typicode.com/posts,333,0,0
+1791953485631,327,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-6,text,true,,2557,223,23,23,https://jsonplaceholder.typicode.com/posts/92/comments,327,0,0
+1791953485671,298,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-20,text,true,,1157,214,23,23,https://jsonplaceholder.typicode.com/posts/64,298,0,0
+1791953485634,345,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-5,text,true,,2524,223,23,23,https://jsonplaceholder.typicode.com/posts/11/comments,335,0,0
+1791953485677,366,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-18,text,true,,2496,223,23,23,https://jsonplaceholder.typicode.com/posts/53/comments,366,0,0
+1791953485938,106,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-10,text,true,,28467,211,23,23,https://jsonplaceholder.typicode.com/posts,83,0,0
+1791953485872,202,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-22,text,true,,28463,211,23,23,https://jsonplaceholder.typicode.com/posts,199,0,131
+1791953486050,67,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-21,text,true,,1276,214,23,23,https://jsonplaceholder.typicode.com/posts/13,67,0,0
+1791953485902,287,04_POST tao bai viet (/posts),201,Created,API Clients 1-17,text,true,,1145,334,23,23,https://jsonplaceholder.typicode.com/posts,287,0,0
+1791953486217,72,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-11,text,true,,28465,211,24,24,https://jsonplaceholder.typicode.com/posts,64,0,0
+1791953485997,313,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-9,text,true,,1121,214,24,24,https://jsonplaceholder.typicode.com/posts/87,313,0,0
+1791953485477,837,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-2,text,true,,990,325,24,24,https://jsonplaceholder.typicode.com/posts/88,837,0,0
+1791953485570,750,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-14,text,true,,988,325,24,24,https://jsonplaceholder.typicode.com/posts/70,750,0,0
+1791953486020,327,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-12,text,true,,904,236,24,24,https://jsonplaceholder.typicode.com/posts/88,327,0,0
+1791953486200,177,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-23,text,true,,28465,211,24,24,https://jsonplaceholder.typicode.com/posts,175,0,108
+1791953486345,78,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-10,text,true,,1191,214,24,24,https://jsonplaceholder.typicode.com/posts/40,78,0,0
+1791953486118,315,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-7,text,true,,2420,223,24,24,https://jsonplaceholder.typicode.com/posts/35/comments,315,0,0
+1791953486101,333,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-8,text,true,,2499,223,24,24,https://jsonplaceholder.typicode.com/posts/21/comments,332,0,0
+1791953486163,309,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-19,text,true,,2357,223,24,24,https://jsonplaceholder.typicode.com/posts/27/comments,309,0,0
+1791953486419,68,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-21,text,true,,2498,223,24,24,https://jsonplaceholder.typicode.com/posts/13/comments,67,0,0
+1791953485706,794,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-1,text,true,,994,325,24,24,https://jsonplaceholder.typicode.com/posts/80,794,0,0
+1791953485748,756,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-15,text,true,,1002,325,24,24,https://jsonplaceholder.typicode.com/posts/10,756,0,0
+1791953486271,295,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-20,text,true,,2556,223,25,25,https://jsonplaceholder.typicode.com/posts/64/comments,295,0,0
+1791953486259,309,04_POST tao bai viet (/posts),201,Created,API Clients 1-6,text,true,,1158,333,25,25,https://jsonplaceholder.typicode.com/posts,309,0,0
+1791953486281,294,04_POST tao bai viet (/posts),201,Created,API Clients 1-5,text,true,,1150,333,25,25,https://jsonplaceholder.typicode.com/posts,294,0,0
+1791953486346,315,04_POST tao bai viet (/posts),201,Created,API Clients 1-18,text,true,,1155,334,25,25,https://jsonplaceholder.typicode.com/posts,315,0,0
+1791953485937,749,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-3,text,true,,1000,325,25,25,https://jsonplaceholder.typicode.com/posts/75,749,0,0
+1791953486378,313,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-22,text,true,,1184,214,25,25,https://jsonplaceholder.typicode.com/posts/12,313,0,0
+1791953486648,71,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-12,text,true,,28459,211,25,25,https://jsonplaceholder.typicode.com/posts,64,0,0
+1791953485978,750,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-13,text,true,,996,325,25,25,https://jsonplaceholder.typicode.com/posts/16,750,0,0
+1791953486530,211,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-24,text,true,,28471,211,25,25,https://jsonplaceholder.typicode.com/posts,206,0,138
+1791953486682,81,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-23,text,true,,1190,214,25,25,https://jsonplaceholder.typicode.com/posts/25,81,0,0
+1791953486724,87,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-10,text,true,,2526,223,25,25,https://jsonplaceholder.typicode.com/posts/40/comments,87,0,0
+1791953486615,298,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-2,text,true,,912,236,26,26,https://jsonplaceholder.typicode.com/posts/88,298,0,0
+1791953486591,328,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-11,text,true,,1190,214,26,26,https://jsonplaceholder.typicode.com/posts/26,328,0,0
+1791953486611,323,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-9,text,true,,2621,223,26,26,https://jsonplaceholder.typicode.com/posts/87/comments,323,0,0
+1791953486635,310,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-14,text,true,,910,236,26,26,https://jsonplaceholder.typicode.com/posts/70,310,0,0
+1791953486201,777,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-16,text,true,,1000,325,26,26,https://jsonplaceholder.typicode.com/posts/20,777,0,0
+1791953486734,286,04_POST tao bai viet (/posts),201,Created,API Clients 1-7,text,true,,1148,333,26,26,https://jsonplaceholder.typicode.com/posts,286,0,0
+1791953486257,777,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-4,text,true,,994,325,26,26,https://jsonplaceholder.typicode.com/posts/64,777,0,0
+1791953486742,292,04_POST tao bai viet (/posts),201,Created,API Clients 1-8,text,true,,1147,334,26,26,https://jsonplaceholder.typicode.com/posts,292,0,0
+1791953486868,228,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-25,text,true,,28467,211,26,26,https://jsonplaceholder.typicode.com/posts,222,0,155
+1791953486800,300,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-1,text,true,,902,236,26,26,https://jsonplaceholder.typicode.com/posts/80,300,0,0
+1791953486789,312,04_POST tao bai viet (/posts),201,Created,API Clients 1-19,text,true,,1145,334,26,26,https://jsonplaceholder.typicode.com/posts,312,0,0
+1791953486788,318,04_POST tao bai viet (/posts),201,Created,API Clients 1-21,text,true,,1149,334,26,26,https://jsonplaceholder.typicode.com/posts,318,0,0
+1791953486805,320,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-15,text,true,,906,236,26,26,https://jsonplaceholder.typicode.com/posts/10,320,0,0
+1791953487069,57,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-23,text,true,,2578,223,26,26,https://jsonplaceholder.typicode.com/posts/25/comments,57,0,0
+1791953486882,287,04_POST tao bai viet (/posts),201,Created,API Clients 1-20,text,true,,1159,334,26,26,https://jsonplaceholder.typicode.com/posts,287,0,0
+1791953486491,775,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-17,text,true,,994,325,27,27,https://jsonplaceholder.typicode.com/posts/13,775,0,0
+1791953486992,307,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-3,text,true,,920,236,27,27,https://jsonplaceholder.typicode.com/posts/75,307,0,0
+1791953487224,75,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-2,text,true,,28465,211,27,27,https://jsonplaceholder.typicode.com/posts,69,0,0
+1791953486992,314,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-22,text,true,,2417,223,27,27,https://jsonplaceholder.typicode.com/posts/12/comments,314,0,0
+1791953487023,306,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-12,text,true,,1179,214,27,27,https://jsonplaceholder.typicode.com/posts/24,306,0,0
+1791953487255,77,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-14,text,true,,28463,211,27,27,https://jsonplaceholder.typicode.com/posts,69,0,0
+1791953487038,313,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-13,text,true,,914,236,27,27,https://jsonplaceholder.typicode.com/posts/16,313,0,0
+1791953487053,325,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-24,text,true,,1258,214,27,27,https://jsonplaceholder.typicode.com/posts/43,325,0,0
+1791953487115,308,04_POST tao bai viet (/posts),201,Created,API Clients 1-10,text,true,,1139,334,27,27,https://jsonplaceholder.typicode.com/posts,308,0,0
+1791953487210,227,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-26,text,true,,28467,211,27,27,https://jsonplaceholder.typicode.com/posts,221,0,144
+1791953487411,69,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-25,text,true,,1204,214,27,27,https://jsonplaceholder.typicode.com/posts/11,69,0,0
+1791953487410,80,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-1,text,true,,28465,211,27,27,https://jsonplaceholder.typicode.com/posts,73,0,0
+1791953487441,84,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-15,text,true,,28463,211,27,27,https://jsonplaceholder.typicode.com/posts,76,0,0
+1791953487224,316,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-11,text,true,,2617,223,27,27,https://jsonplaceholder.typicode.com/posts/26/comments,316,0,0
+1791953487240,307,04_POST tao bai viet (/posts),201,Created,API Clients 1-9,text,true,,1148,333,27,27,https://jsonplaceholder.typicode.com/posts,307,0,0
+1791953487287,310,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-16,text,true,,910,236,28,28,https://jsonplaceholder.typicode.com/posts/20,310,0,0
+1791953486882,738,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-6,text,true,,998,325,28,28,https://jsonplaceholder.typicode.com/posts/92,738,0,0
+1791953487348,307,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-4,text,true,,910,236,28,28,https://jsonplaceholder.typicode.com/posts/64,307,0,0
+1791953486882,786,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-5,text,true,,996,325,28,28,https://jsonplaceholder.typicode.com/posts/11,786,0,0
+1791953487612,85,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-3,text,true,,28459,211,28,28,https://jsonplaceholder.typicode.com/posts,78,0,0
+1791953487410,313,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-21,text,true,,992,325,28,28,https://jsonplaceholder.typicode.com/posts/13,313,0,0
+1791953487660,70,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-13,text,true,,28469,211,28,28,https://jsonplaceholder.typicode.com/posts,64,0,0
+1791953487441,290,04_POST tao bai viet (/posts),201,Created,API Clients 1-23,text,true,,1153,334,28,28,https://jsonplaceholder.typicode.com/posts,290,0,0
+1791953486976,774,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-18,text,true,,998,325,28,28,https://jsonplaceholder.typicode.com/posts/53,774,0,0
+1791953487551,210,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-27,text,true,,28459,211,28,28,https://jsonplaceholder.typicode.com/posts,205,0,137
+1791953487783,66,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-25,text,true,,2520,223,28,28,https://jsonplaceholder.typicode.com/posts/11/comments,66,0,0
+1791953487581,285,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-17,text,true,,916,236,28,28,https://jsonplaceholder.typicode.com/posts/13,285,0,0
+1791953487831,71,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-15,text,true,,1195,214,28,28,https://jsonplaceholder.typicode.com/posts/12,71,0,0
+1791953487612,303,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-2,text,true,,1198,214,29,29,https://jsonplaceholder.typicode.com/posts/93,303,0,0
+1791953487612,309,04_POST tao bai viet (/posts),201,Created,API Clients 1-22,text,true,,1151,334,29,29,https://jsonplaceholder.typicode.com/posts,309,0,0
+1791953487644,309,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-12,text,true,,2448,223,29,29,https://jsonplaceholder.typicode.com/posts/24/comments,308,0,0
+1791953487644,331,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-14,text,true,,1216,214,29,29,https://jsonplaceholder.typicode.com/posts/61,331,0,0
+1791953487906,70,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-16,text,true,,28459,211,29,29,https://jsonplaceholder.typicode.com/posts,64,0,0
+1791953487690,309,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-24,text,true,,2460,223,29,29,https://jsonplaceholder.typicode.com/posts/43/comments,309,0,0
+1791953487968,77,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-4,text,true,,28463,211,29,29,https://jsonplaceholder.typicode.com/posts,70,0,0
+1791953487736,317,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-10,text,true,,996,325,29,29,https://jsonplaceholder.typicode.com/posts/40,317,0,0
+1791953487752,322,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-26,text,true,,1243,214,29,29,https://jsonplaceholder.typicode.com/posts/81,322,0,0
+1791953487800,275,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-1,text,true,,1246,214,29,29,https://jsonplaceholder.typicode.com/posts/81,275,0,0
+1791953487877,197,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-28,text,true,,28469,211,29,29,https://jsonplaceholder.typicode.com/posts,194,0,130
+1791953487333,777,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-7,text,true,,1002,325,29,29,https://jsonplaceholder.typicode.com/posts/35,777,0,0
+1791953487348,778,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-8,text,true,,988,325,29,29,https://jsonplaceholder.typicode.com/posts/21,777,0,0
+1791953487845,308,04_POST tao bai viet (/posts),201,Created,API Clients 1-11,text,true,,1145,334,29,29,https://jsonplaceholder.typicode.com/posts,308,0,0
+1791953487410,781,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-19,text,true,,990,325,29,29,https://jsonplaceholder.typicode.com/posts/27,781,0,0
+1791953487921,306,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-6,text,true,,908,236,29,29,https://jsonplaceholder.typicode.com/posts/92,306,0,0
+1791953488172,58,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-17,text,true,,28471,211,29,29,https://jsonplaceholder.typicode.com/posts,54,0,0
+1791953487473,786,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-20,text,true,,990,325,30,30,https://jsonplaceholder.typicode.com/posts/64,786,0,0
+1791953487984,286,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-5,text,true,,914,236,30,30,https://jsonplaceholder.typicode.com/posts/11,286,0,0
+1791953488218,76,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-15,text,true,,2439,223,30,30,https://jsonplaceholder.typicode.com/posts/12/comments,76,0,0
+1791953488000,322,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-3,text,true,,1144,214,30,30,https://jsonplaceholder.typicode.com/posts/46,322,0,0
+1791953488046,290,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-23,text,true,,998,325,30,30,https://jsonplaceholder.typicode.com/posts/25,290,0,0
+1791953488031,311,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-21,text,true,,914,236,30,30,https://jsonplaceholder.typicode.com/posts/13,311,0,0
+1791953488280,67,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-16,text,true,,1255,214,30,30,https://jsonplaceholder.typicode.com/posts/16,67,0,0
+1791953488046,305,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-13,text,true,,1221,214,30,30,https://jsonplaceholder.typicode.com/posts/82,305,0,0
+1791953488063,306,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-18,text,true,,908,236,30,30,https://jsonplaceholder.typicode.com/posts/53,306,0,0
+1791953488078,302,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-27,text,true,,1234,214,30,30,https://jsonplaceholder.typicode.com/posts/75,302,0,0
+1791953488219,165,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-29,text,true,,28463,211,30,30,https://jsonplaceholder.typicode.com/posts,162,0,108
+1791953488156,300,04_POST tao bai viet (/posts),201,Created,API Clients 1-25,text,true,,1149,334,30,30,https://jsonplaceholder.typicode.com/posts,300,0,0
+1791953488388,68,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-28,text,true,,1136,214,30,30,https://jsonplaceholder.typicode.com/posts/88,68,0,0
+1791953488218,317,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-2,text,true,,2600,223,30,30,https://jsonplaceholder.typicode.com/posts/93/comments,317,0,0
+1791953488264,304,04_POST tao bai viet (/posts),201,Created,API Clients 1-12,text,true,,1145,334,30,30,https://jsonplaceholder.typicode.com/posts,304,0,0
+1791953488280,302,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-14,text,true,,2594,223,30,30,https://jsonplaceholder.typicode.com/posts/61/comments,302,0,0
+1791953488542,76,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-6,text,true,,28471,211,30,30,https://jsonplaceholder.typicode.com/posts,69,0,0
+1791953488311,310,04_POST tao bai viet (/posts),201,Created,API Clients 1-24,text,true,,1147,334,30,30,https://jsonplaceholder.typicode.com/posts,310,0,0
+1791953488573,58,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-5,text,true,,28459,211,30,30,https://jsonplaceholder.typicode.com/posts,54,0,0
+1791953488358,300,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-4,text,true,,1175,214,30,30,https://jsonplaceholder.typicode.com/posts/45,300,0,0
+1791953488358,307,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-10,text,true,,908,236,30,30,https://jsonplaceholder.typicode.com/posts/40,307,0,0
+1791953487861,807,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-9,text,true,,994,325,30,30,https://jsonplaceholder.typicode.com/posts/87,807,0,0
+1791953488419,285,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-7,text,true,,914,236,30,30,https://jsonplaceholder.typicode.com/posts/35,285,0,0
+1791953488543,169,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-30,text,true,,28473,211,30,30,https://jsonplaceholder.typicode.com/posts,166,0,108
+1791953488650,66,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-16,text,true,,2545,223,30,30,https://jsonplaceholder.typicode.com/posts/16/comments,66,0,0
+1791953488434,285,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-8,text,true,,912,236,30,30,https://jsonplaceholder.typicode.com/posts/21,285,0,0
+1791953488388,338,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-26,text,true,,2640,223,30,30,https://jsonplaceholder.typicode.com/posts/81/comments,338,0,0
+1791953488388,339,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-1,text,true,,2622,223,30,30,https://jsonplaceholder.typicode.com/posts/81/comments,338,0,0
+1791953488681,83,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-18,text,true,,28459,211,30,30,https://jsonplaceholder.typicode.com/posts,72,0,0
+1791953488650,125,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-21,text,true,,28461,211,30,30,https://jsonplaceholder.typicode.com/posts,66,0,0
+1791953488496,301,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-19,text,true,,916,236,30,30,https://jsonplaceholder.typicode.com/posts/27,301,0,0
+1791953488761,64,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-28,text,true,,2650,223,30,30,https://jsonplaceholder.typicode.com/posts/88/comments,64,0,0
+1791953488542,306,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-17,text,true,,1227,214,30,30,https://jsonplaceholder.typicode.com/posts/85,306,0,0
+1791953488573,284,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-20,text,true,,914,236,30,30,https://jsonplaceholder.typicode.com/posts/64,284,0,0
+1791953488603,313,04_POST tao bai viet (/posts),201,Created,API Clients 1-15,text,true,,1145,334,30,30,https://jsonplaceholder.typicode.com/posts,313,0,0
+1791953488650,287,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-23,text,true,,906,236,30,30,https://jsonplaceholder.typicode.com/posts/25,287,0,0
+1791953488634,340,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-3,text,true,,2539,223,30,30,https://jsonplaceholder.typicode.com/posts/46/comments,340,0,0
+1791953488665,309,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-13,text,true,,2619,223,30,30,https://jsonplaceholder.typicode.com/posts/82/comments,309,0,0
+1791953488234,749,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-22,text,true,,1002,325,30,30,https://jsonplaceholder.typicode.com/posts/12,749,0,0
+1791953488697,301,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-29,text,true,,1200,214,30,30,https://jsonplaceholder.typicode.com/posts/47,301,0,0
+1791953488932,76,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-6,text,true,,1247,214,30,30,https://jsonplaceholder.typicode.com/posts/75,76,0,0
+1791953488697,318,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-27,text,true,,2668,223,30,30,https://jsonplaceholder.typicode.com/posts/75/comments,318,0,0
+1791953488977,78,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-10,text,true,,28467,211,30,30,https://jsonplaceholder.typicode.com/posts,71,0,0
+1791953489008,61,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-7,text,true,,28461,211,30,30,https://jsonplaceholder.typicode.com/posts,58,0,0
+1791953488761,311,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-25,text,true,,996,325,30,30,https://jsonplaceholder.typicode.com/posts/11,311,0,0
+1791953489026,59,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-8,text,true,,28471,211,30,30,https://jsonplaceholder.typicode.com/posts,52,0,0
+1791953489026,81,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-30,text,true,,1171,214,30,30,https://jsonplaceholder.typicode.com/posts/64,81,0,0
+1791953488840,303,04_POST tao bai viet (/posts),201,Created,API Clients 1-2,text,true,,1148,333,30,30,https://jsonplaceholder.typicode.com/posts,303,0,0
+1791953489102,71,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-19,text,true,,28467,211,30,30,https://jsonplaceholder.typicode.com/posts,62,0,0
+1791953488886,311,04_POST tao bai viet (/posts),201,Created,API Clients 1-14,text,true,,1154,335,30,30,https://jsonplaceholder.typicode.com/posts,311,0,0
+1791953488465,752,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-11,text,true,,994,325,30,30,https://jsonplaceholder.typicode.com/posts/26,752,0,0
+1791953489164,58,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-20,text,true,,28465,211,30,30,https://jsonplaceholder.typicode.com/posts,53,0,0
+1791953488947,307,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-5,text,true,,1190,214,30,30,https://jsonplaceholder.typicode.com/posts/12,307,0,0
+1791953488961,324,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-4,text,true,,2643,223,30,30,https://jsonplaceholder.typicode.com/posts/45/comments,324,0,0
+1791953488977,317,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-9,text,true,,904,236,30,30,https://jsonplaceholder.typicode.com/posts/87,317,0,0
+1791953489242,67,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-23,text,true,,28461,211,30,30,https://jsonplaceholder.typicode.com/posts,62,0,0
+1791953489026,308,04_POST tao bai viet (/posts),201,Created,API Clients 1-16,text,true,,1155,334,30,30,https://jsonplaceholder.typicode.com/posts,308,0,0
+1791953489040,300,04_POST tao bai viet (/posts),201,Created,API Clients 1-1,text,true,,1146,333,30,30,https://jsonplaceholder.typicode.com/posts,300,0,0
+1791953489040,312,04_POST tao bai viet (/posts),201,Created,API Clients 1-26,text,true,,1143,334,30,30,https://jsonplaceholder.typicode.com/posts,312,0,0
+1791953489071,304,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-18,text,true,,1166,214,30,30,https://jsonplaceholder.typicode.com/posts/68,304,0,0
+1791953489320,68,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-6,text,true,,2680,223,30,30,https://jsonplaceholder.typicode.com/posts/75/comments,68,0,0
+1791953489087,325,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-21,text,true,,1147,214,30,30,https://jsonplaceholder.typicode.com/posts/78,325,0,0
+1791953489148,287,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-17,text,true,,2418,223,30,30,https://jsonplaceholder.typicode.com/posts/85/comments,287,0,0
+1791953489383,53,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-7,text,true,,1250,214,30,30,https://jsonplaceholder.typicode.com/posts/81,53,0,0
+1791953489133,305,04_POST tao bai viet (/posts),201,Created,API Clients 1-28,text,true,,1141,334,30,30,https://jsonplaceholder.typicode.com/posts,305,0,0
+1791953489414,88,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-30,text,true,,2576,223,30,30,https://jsonplaceholder.typicode.com/posts/64/comments,88,0,0
+1791953489226,303,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-15,text,true,,992,325,30,30,https://jsonplaceholder.typicode.com/posts/12,303,0,0
+1791953489288,306,04_POST tao bai viet (/posts),201,Created,API Clients 1-3,text,true,,1150,333,30,30,https://jsonplaceholder.typicode.com/posts,306,0,0
+1791953489288,317,04_POST tao bai viet (/posts),201,Created,API Clients 1-13,text,true,,1151,334,30,30,https://jsonplaceholder.typicode.com/posts,317,0,0
+1791953489288,318,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-22,text,true,,906,236,30,30,https://jsonplaceholder.typicode.com/posts/12,318,0,0
+1791953489304,302,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-29,text,true,,2547,223,30,30,https://jsonplaceholder.typicode.com/posts/47/comments,302,0,0
+1791953489320,308,04_POST tao bai viet (/posts),201,Created,API Clients 1-27,text,true,,1153,334,30,30,https://jsonplaceholder.typicode.com/posts,308,0,0
+1791953488870,782,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-12,text,true,,994,325,30,30,https://jsonplaceholder.typicode.com/posts/24,782,0,0
+1791953489600,76,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-9,text,true,,28471,211,30,30,https://jsonplaceholder.typicode.com/posts,68,0,0
+1791953489367,311,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-10,text,true,,1163,214,30,30,https://jsonplaceholder.typicode.com/posts/92,311,0,0
+1791953489383,300,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-25,text,true,,906,236,30,30,https://jsonplaceholder.typicode.com/posts/11,300,0,0
+1791953489399,288,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-8,text,true,,1175,214,30,30,https://jsonplaceholder.typicode.com/posts/28,288,0,0
+1791953488932,806,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-24,text,true,,994,325,30,30,https://jsonplaceholder.typicode.com/posts/43,806,0,0
+1791953489478,312,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-19,text,true,,1191,214,30,30,https://jsonplaceholder.typicode.com/posts/65,312,0,0
+1791953489739,61,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-7,text,true,,2630,223,30,30,https://jsonplaceholder.typicode.com/posts/81/comments,61,0,0
+1791953489524,296,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-20,text,true,,1159,214,30,30,https://jsonplaceholder.typicode.com/posts/91,296,0,0
+1791953489524,307,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-11,text,true,,908,236,30,30,https://jsonplaceholder.typicode.com/posts/26,307,0,0
+1791953489554,304,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-5,text,true,,2423,223,30,30,https://jsonplaceholder.typicode.com/posts/12/comments,304,0,0
+1791953489600,307,04_POST tao bai viet (/posts),201,Created,API Clients 1-4,text,true,,1148,333,30,30,https://jsonplaceholder.typicode.com/posts,307,0,0
+1791953489616,304,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-23,text,true,,1207,214,30,30,https://jsonplaceholder.typicode.com/posts/31,304,0,0
+1791953489647,294,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-16,text,true,,994,325,30,30,https://jsonplaceholder.typicode.com/posts/16,294,0,0
+1791953489678,303,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-18,text,true,,2600,223,30,30,https://jsonplaceholder.typicode.com/posts/68/comments,303,0,0
+1791953489693,305,04_POST tao bai viet (/posts),201,Created,API Clients 1-6,text,true,,1146,333,30,30,https://jsonplaceholder.typicode.com/posts,305,0,0
+1791953489739,300,04_POST tao bai viet (/posts),201,Created,API Clients 1-17,text,true,,1149,334,30,30,https://jsonplaceholder.typicode.com/posts,300,0,0
+1791953489909,129,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-22,text,true,,28463,211,30,30,https://jsonplaceholder.typicode.com/posts,70,0,0
+1791953489725,317,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-21,text,true,,2469,223,30,30,https://jsonplaceholder.typicode.com/posts/78/comments,317,0,0
+1791953489739,313,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-28,text,true,,992,325,30,30,https://jsonplaceholder.typicode.com/posts/88,313,0,0
+1791953489988,72,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-9,text,true,,1212,214,30,30,https://jsonplaceholder.typicode.com/posts/65,72,0,0
+1791953489988,147,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-25,text,true,,28463,211,30,30,https://jsonplaceholder.typicode.com/posts,71,0,0
+1791953489831,310,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-15,text,true,,902,236,30,30,https://jsonplaceholder.typicode.com/posts/12,310,0,0
+1791953489909,288,04_POST tao bai viet (/posts),201,Created,API Clients 1-29,text,true,,1147,334,30,30,https://jsonplaceholder.typicode.com/posts,288,0,0
+1791953490145,73,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-11,text,true,,28465,211,30,30,https://jsonplaceholder.typicode.com/posts,66,0,0
+1791953489446,793,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-2,text,true,,1000,325,30,30,https://jsonplaceholder.typicode.com/posts/93,793,0,0
+1791953489956,308,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-12,text,true,,908,236,30,30,https://jsonplaceholder.typicode.com/posts/24,308,0,0
+1791953489988,322,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-10,text,true,,2553,223,30,30,https://jsonplaceholder.typicode.com/posts/92/comments,322,0,0
+1791953489509,806,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-14,text,true,,992,325,30,30,https://jsonplaceholder.typicode.com/posts/61,806,0,0
+1791953489988,332,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-8,text,true,,2561,223,30,30,https://jsonplaceholder.typicode.com/posts/28/comments,331,0,0
+1791953490051,307,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-24,text,true,,910,236,30,30,https://jsonplaceholder.typicode.com/posts/43,307,0,0
+1791953490113,292,04_POST tao bai viet (/posts),201,Created,API Clients 1-7,text,true,,1142,333,30,30,https://jsonplaceholder.typicode.com/posts,292,0,0
+1791953489647,762,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-1,text,true,,998,325,30,30,https://jsonplaceholder.typicode.com/posts/81,762,0,0
+1791953490097,324,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-19,text,true,,2448,223,30,30,https://jsonplaceholder.typicode.com/posts/65/comments,323,0,0
+1791953490129,292,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-20,text,true,,2498,223,30,30,https://jsonplaceholder.typicode.com/posts/91/comments,292,0,0
+1791953489662,760,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-26,text,true,,992,325,30,30,https://jsonplaceholder.typicode.com/posts/81,760,0,0
+1791953490375,71,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-9,text,true,,2458,223,30,30,https://jsonplaceholder.typicode.com/posts/65/comments,71,0,0
+1791953490161,291,04_POST tao bai viet (/posts),201,Created,API Clients 1-5,text,true,,1146,333,30,30,https://jsonplaceholder.typicode.com/posts,291,0,0
+1791953490221,315,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-23,text,true,,2526,223,30,30,https://jsonplaceholder.typicode.com/posts/31/comments,315,0,0
+1791953489816,746,04_POST tao bai viet (/posts),201,Created,API Clients 1-30,text,true,,1153,334,30,30,https://jsonplaceholder.typicode.com/posts,746,0,0
+1791953490252,316,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-16,text,true,,906,236,30,30,https://jsonplaceholder.typicode.com/posts/16,316,0,0
+1791953490284,306,04_POST tao bai viet (/posts),201,Created,API Clients 1-18,text,true,,1155,334,30,30,https://jsonplaceholder.typicode.com/posts,306,0,0
+1791953490451,139,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-15,text,true,,28473,211,30,30,https://jsonplaceholder.typicode.com/posts,77,0,0
+1791953490576,69,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-12,text,true,,28463,211,30,30,https://jsonplaceholder.typicode.com/posts,62,0,0
+1791953490345,310,04_POST tao bai viet (/posts),201,Created,API Clients 1-21,text,true,,1143,334,30,30,https://jsonplaceholder.typicode.com/posts,310,0,0
+1791953490345,312,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-22,text,true,,1251,214,30,30,https://jsonplaceholder.typicode.com/posts/38,312,0,0
+1791953489909,754,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-13,text,true,,992,325,30,30,https://jsonplaceholder.typicode.com/posts/82,754,0,0
+1791953490360,309,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-28,text,true,,914,236,30,30,https://jsonplaceholder.typicode.com/posts/88,309,0,0
+1791953489909,760,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-3,text,true,,990,325,30,30,https://jsonplaceholder.typicode.com/posts/46,760,0,0
+1791953489941,786,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-27,text,true,,1006,325,30,30,https://jsonplaceholder.typicode.com/posts/75,786,0,0
+1791953490451,302,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-25,text,true,,1191,214,30,30,https://jsonplaceholder.typicode.com/posts/53,302,0,0
+1791953490669,84,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-24,text,true,,28469,211,30,30,https://jsonplaceholder.typicode.com/posts,70,0,0
+1791953490528,302,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-11,text,true,,1152,214,30,30,https://jsonplaceholder.typicode.com/posts/18,302,0,0
+1791953490544,303,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-2,text,true,,910,236,30,30,https://jsonplaceholder.typicode.com/posts/93,302,0,0
+1791953490622,287,04_POST tao bai viet (/posts),201,Created,API Clients 1-8,text,true,,1148,333,30,30,https://jsonplaceholder.typicode.com/posts,287,0,0
+1791953490622,305,04_POST tao bai viet (/posts),201,Created,API Clients 1-10,text,true,,1149,334,30,30,https://jsonplaceholder.typicode.com/posts,305,0,0
+1791953490623,311,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-14,text,true,,914,236,30,30,https://jsonplaceholder.typicode.com/posts/61,311,0,0
+1791953490872,75,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-16,text,true,,28461,211,30,30,https://jsonplaceholder.typicode.com/posts,68,0,0
+1791953490716,289,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-7,text,true,,992,325,30,30,https://jsonplaceholder.typicode.com/posts/81,289,0,0
+1791953490948,63,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-12,text,true,,1167,213,30,30,https://jsonplaceholder.typicode.com/posts/7,63,0,0
+1791953490716,302,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-1,text,true,,910,236,30,30,https://jsonplaceholder.typicode.com/posts/81,302,0,0
+1791953490732,286,04_POST tao bai viet (/posts),201,Created,API Clients 1-20,text,true,,1159,334,30,30,https://jsonplaceholder.typicode.com/posts,286,0,0
+1791953490732,302,04_POST tao bai viet (/posts),201,Created,API Clients 1-19,text,true,,1155,334,30,30,https://jsonplaceholder.typicode.com/posts,302,0,0
+1791953490732,313,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-26,text,true,,908,236,30,30,https://jsonplaceholder.typicode.com/posts/81,313,0,0
+1791953490978,71,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-28,text,true,,28461,211,30,30,https://jsonplaceholder.typicode.com/posts,63,0,0
+1791953490221,833,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-4,text,true,,992,325,30,30,https://jsonplaceholder.typicode.com/posts/45,833,0,0
+1791953490747,315,04_POST tao bai viet (/posts),201,Created,API Clients 1-9,text,true,,1148,333,30,30,https://jsonplaceholder.typicode.com/posts,315,0,0
+1791953490299,770,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-6,text,true,,998,325,30,30,https://jsonplaceholder.typicode.com/posts/75,770,0,0
+1791953490345,739,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-17,text,true,,994,325,30,30,https://jsonplaceholder.typicode.com/posts/85,739,0,0
+1791953490841,287,04_POST tao bai viet (/posts),201,Created,API Clients 1-23,text,true,,1149,334,30,30,https://jsonplaceholder.typicode.com/posts,287,0,0
+1791953490872,322,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-30,text,true,,994,325,30,30,https://jsonplaceholder.typicode.com/posts/64,322,0,0
+1791953490902,317,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-15,text,true,,1200,214,30,30,https://jsonplaceholder.typicode.com/posts/93,317,0,0
+1791953491151,75,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-2,text,true,,28465,211,30,30,https://jsonplaceholder.typicode.com/posts,67,0,0
+1791953490978,305,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-3,text,true,,912,236,30,30,https://jsonplaceholder.typicode.com/posts/46,305,0,0
+1791953490512,771,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-29,text,true,,994,325,30,30,https://jsonplaceholder.typicode.com/posts/47,771,0,0
+1791953490978,308,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-13,text,true,,902,236,30,30,https://jsonplaceholder.typicode.com/posts/82,308,0,0
+1791953490963,328,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-22,text,true,,2592,223,30,30,https://jsonplaceholder.typicode.com/posts/38/comments,328,0,0
+1791953491245,76,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-14,text,true,,28469,211,30,30,https://jsonplaceholder.typicode.com/posts,69,0,0
+1791953491260,70,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-16,text,true,,1171,213,30,30,https://jsonplaceholder.typicode.com/posts/7,70,0,0
+1791953491041,307,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-27,text,true,,914,236,30,30,https://jsonplaceholder.typicode.com/posts/75,306,0,0
+1791953491057,300,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-25,text,true,,2504,223,30,30,https://jsonplaceholder.typicode.com/posts/53/comments,300,0,0
+1791953491057,304,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-24,text,true,,1218,214,30,30,https://jsonplaceholder.typicode.com/posts/52,304,0,0
+1791953491354,65,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-28,text,true,,1169,213,30,30,https://jsonplaceholder.typicode.com/posts/5,65,0,0
+1791953491354,83,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-26,text,true,,28469,211,30,30,https://jsonplaceholder.typicode.com/posts,76,0,0
+1791953491136,335,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-11,text,true,,2569,223,30,30,https://jsonplaceholder.typicode.com/posts/18/comments,335,0,0
+1791953491322,154,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-1,text,true,,28463,211,30,30,https://jsonplaceholder.typicode.com/posts,73,0,0
+1791953490763,789,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-5,text,true,,1000,325,30,30,https://jsonplaceholder.typicode.com/posts/12,789,0,0
+1791953491306,289,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-7,text,true,,904,236,30,30,https://jsonplaceholder.typicode.com/posts/81,289,0,0
+1791953491322,298,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-12,text,true,,2331,222,30,30,https://jsonplaceholder.typicode.com/posts/7/comments,298,0,0
+1791953491587,80,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-3,text,true,,28465,211,30,30,https://jsonplaceholder.typicode.com/posts,72,0,0
+1791953491368,305,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-4,text,true,,910,236,30,30,https://jsonplaceholder.typicode.com/posts/45,305,0,0
+1791953491399,284,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-17,text,true,,914,236,30,30,https://jsonplaceholder.typicode.com/posts/85,284,0,0
+1791953491384,305,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-6,text,true,,906,236,30,30,https://jsonplaceholder.typicode.com/posts/75,305,0,0
+1791953490902,810,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-18,text,true,,994,325,30,30,https://jsonplaceholder.typicode.com/posts/68,810,0,0
+1791953491633,79,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-14,text,true,,1229,213,30,30,https://jsonplaceholder.typicode.com/posts/2,79,0,0
+1791953491509,293,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-30,text,true,,912,236,30,30,https://jsonplaceholder.typicode.com/posts/64,293,0,0
+1791953491787,71,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-1,text,true,,1171,214,30,30,https://jsonplaceholder.typicode.com/posts/64,71,0,0
+1791953491525,342,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-15,text,true,,2606,223,30,30,https://jsonplaceholder.typicode.com/posts/93/comments,342,0,0
+1791953491540,331,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-2,text,true,,1176,214,30,30,https://jsonplaceholder.typicode.com/posts/15,331,0,0
+1791953491586,292,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-29,text,true,,908,236,30,30,https://jsonplaceholder.typicode.com/posts/47,292,0,0
+1791953490963,919,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-21,text,true,,994,325,30,30,https://jsonplaceholder.typicode.com/posts/78,919,0,0
+1791953491648,235,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-27,text,true,,28463,211,30,30,https://jsonplaceholder.typicode.com/posts,234,0,0
+1791953491601,309,04_POST tao bai viet (/posts),201,Created,API Clients 1-22,text,true,,1145,334,30,30,https://jsonplaceholder.typicode.com/posts,309,0,0
+1791953491633,304,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-16,text,true,,2343,222,30,30,https://jsonplaceholder.typicode.com/posts/7/comments,304,0,0
+1791953491601,336,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-13,text,true,,28459,211,30,30,https://jsonplaceholder.typicode.com/posts,329,0,0
+1791953491898,57,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-7,text,true,,28457,211,30,30,https://jsonplaceholder.typicode.com/posts,54,0,0
+1791953491664,307,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-24,text,true,,2621,223,30,30,https://jsonplaceholder.typicode.com/posts/52/comments,307,0,0
+1791953491212,809,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-8,text,true,,994,325,30,30,https://jsonplaceholder.typicode.com/posts/28,809,0,0
+1791953491664,357,04_POST tao bai viet (/posts),201,Created,API Clients 1-25,text,true,,1143,334,30,30,https://jsonplaceholder.typicode.com/posts,357,0,0
+1791953491725,303,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-28,text,true,,2467,222,30,30,https://jsonplaceholder.typicode.com/posts/5/comments,303,0,0
+1791953491229,809,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-10,text,true,,992,325,30,30,https://jsonplaceholder.typicode.com/posts/92,809,0,0
+1791953491976,82,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-4,text,true,,28461,211,30,30,https://jsonplaceholder.typicode.com/posts,72,0,0
+1791953491992,70,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-17,text,true,,28465,211,30,30,https://jsonplaceholder.typicode.com/posts,67,0,0
+1791953491992,76,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-6,text,true,,28469,211,30,30,https://jsonplaceholder.typicode.com/posts,70,0,0
+1791953491322,748,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-20,text,true,,996,325,30,30,https://jsonplaceholder.typicode.com/posts/91,748,0,0
+1791953491741,329,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-26,text,true,,1245,214,30,30,https://jsonplaceholder.typicode.com/posts/38,329,0,0
+1791953491787,310,04_POST tao bai viet (/posts),201,Created,API Clients 1-11,text,true,,1147,334,30,30,https://jsonplaceholder.typicode.com/posts,310,0,0
+1791953491337,772,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-19,text,true,,986,325,30,30,https://jsonplaceholder.typicode.com/posts/65,772,0,0
+1791953491369,745,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-9,text,true,,990,325,30,30,https://jsonplaceholder.typicode.com/posts/65,745,0,0
+1791953491867,297,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-5,text,true,,910,236,30,30,https://jsonplaceholder.typicode.com/posts/12,297,0,0
+1791953491430,744,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-23,text,true,,998,325,30,30,https://jsonplaceholder.typicode.com/posts/31,744,0,0
+1791953492117,69,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-30,text,true,,28463,211,30,30,https://jsonplaceholder.typicode.com/posts,59,0,0
+1791953492164,70,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-1,text,true,,2564,223,30,30,https://jsonplaceholder.typicode.com/posts/64/comments,70,0,0
+1791953491928,309,04_POST tao bai viet (/posts),201,Created,API Clients 1-12,text,true,,1149,334,30,30,https://jsonplaceholder.typicode.com/posts,309,0,0
+1791953492179,66,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-29,text,true,,28465,211,30,30,https://jsonplaceholder.typicode.com/posts,63,0,0
+1791953492258,55,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-7,text,true,,1210,214,30,30,https://jsonplaceholder.typicode.com/posts/94,54,0,0
+1791953491976,342,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-3,text,true,,1181,214,30,30,https://jsonplaceholder.typicode.com/posts/56,342,0,0
+1791953492024,307,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-18,text,true,,906,236,30,30,https://jsonplaceholder.typicode.com/posts/68,307,0,0
+1791953492024,338,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-14,text,true,,2468,222,30,30,https://jsonplaceholder.typicode.com/posts/2/comments,338,0,0
+1791953492365,54,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-17,text,true,,1192,213,30,30,https://jsonplaceholder.typicode.com/posts/9,54,0,0
+1791953492382,70,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-6,text,true,,1182,214,30,30,https://jsonplaceholder.typicode.com/posts/68,70,0,0
+1791953492179,317,04_POST tao bai viet (/posts),201,Created,API Clients 1-15,text,true,,1149,334,30,30,https://jsonplaceholder.typicode.com/posts,317,0,0
+1791953492179,318,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-2,text,true,,2496,223,30,30,https://jsonplaceholder.typicode.com/posts/15/comments,318,0,0
+1791953492195,308,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-21,text,true,,912,236,30,30,https://jsonplaceholder.typicode.com/posts/78,308,0,0
+1791953492195,309,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-27,text,true,,1177,214,30,30,https://jsonplaceholder.typicode.com/posts/56,309,0,0
+1791953492476,59,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-5,text,true,,28465,211,30,30,https://jsonplaceholder.typicode.com/posts,54,0,0
+1791953492242,303,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-13,text,true,,1177,214,30,30,https://jsonplaceholder.typicode.com/posts/44,303,0,0
+1791953492242,309,04_POST tao bai viet (/posts),201,Created,API Clients 1-16,text,true,,1145,334,30,30,https://jsonplaceholder.typicode.com/posts,309,0,0
+1791953492273,305,04_POST tao bai viet (/posts),201,Created,API Clients 1-24,text,true,,1141,334,30,30,https://jsonplaceholder.typicode.com/posts,305,0,0
+1791953492335,287,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-8,text,true,,904,236,30,30,https://jsonplaceholder.typicode.com/posts/28,287,0,0
+1791953492335,298,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-25,text,true,,998,325,30,30,https://jsonplaceholder.typicode.com/posts/53,298,0,0
+1791953492335,305,04_POST tao bai viet (/posts),201,Created,API Clients 1-28,text,true,,1147,334,30,30,https://jsonplaceholder.typicode.com/posts,305,0,0
+1791953492350,307,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-10,text,true,,906,236,30,30,https://jsonplaceholder.typicode.com/posts/92,307,0,0
+1791953492382,285,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-20,text,true,,906,236,30,30,https://jsonplaceholder.typicode.com/posts/91,285,0,0
+1791953492615,60,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-7,text,true,,2511,223,30,30,https://jsonplaceholder.typicode.com/posts/94/comments,60,0,0
+1791953492365,315,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-4,text,true,,1167,214,30,30,https://jsonplaceholder.typicode.com/posts/25,315,0,0
+1791953492381,317,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-26,text,true,,2586,223,30,30,https://jsonplaceholder.typicode.com/posts/38/comments,317,0,0
+1791953492412,305,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-19,text,true,,906,236,30,30,https://jsonplaceholder.typicode.com/posts/65,305,0,0
+1791953492646,80,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-18,text,true,,28471,211,30,30,https://jsonplaceholder.typicode.com/posts,71,0,0
+1791953492428,307,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-9,text,true,,904,236,30,30,https://jsonplaceholder.typicode.com/posts/65,307,0,0
+1791953492476,297,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-23,text,true,,908,236,30,30,https://jsonplaceholder.typicode.com/posts/31,297,0,0
+1791953492724,63,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-17,text,true,,2353,222,30,30,https://jsonplaceholder.typicode.com/posts/9/comments,62,0,0
+1791953492491,321,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-30,text,true,,1219,214,30,30,https://jsonplaceholder.typicode.com/posts/39,321,0,0
+1791953492756,77,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-6,text,true,,2612,223,30,30,https://jsonplaceholder.typicode.com/posts/68/comments,77,0,0
+1791953492537,310,04_POST tao bai viet (/posts),201,Created,API Clients 1-1,text,true,,1142,333,30,30,https://jsonplaceholder.typicode.com/posts,310,0,0
+1791953492553,295,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-29,text,true,,1131,214,30,30,https://jsonplaceholder.typicode.com/posts/87,295,0,0
+1791953492817,74,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-21,text,true,,28467,211,30,30,https://jsonplaceholder.typicode.com/posts,67,0,0
+1791953492849,53,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-5,text,true,,1236,214,30,30,https://jsonplaceholder.typicode.com/posts/85,53,0,0
+1791953492631,325,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-3,text,true,,2651,223,30,30,https://jsonplaceholder.typicode.com/posts/56/comments,325,0,0
+1791953492226,759,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-22,text,true,,992,325,30,30,https://jsonplaceholder.typicode.com/posts/38,759,0,0
+1791953492926,59,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-8,text,true,,28465,211,30,30,https://jsonplaceholder.typicode.com/posts,53,0,0
+1791953492677,313,04_POST tao bai viet (/posts),201,Created,API Clients 1-14,text,true,,1149,334,30,30,https://jsonplaceholder.typicode.com/posts,313,0,0
+1791953492973,61,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-20,text,true,,28463,211,30,30,https://jsonplaceholder.typicode.com/posts,55,0,0
+1791953492958,82,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-10,text,true,,28463,211,30,30,https://jsonplaceholder.typicode.com/posts,76,0,0
+1791953493020,73,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-19,text,true,,28461,211,30,30,https://jsonplaceholder.typicode.com/posts,65,0,0
+1791953492802,300,04_POST tao bai viet (/posts),201,Created,API Clients 1-2,text,true,,1152,333,30,30,https://jsonplaceholder.typicode.com/posts,300,0,0
+1791953493036,72,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-18,text,true,,1188,214,30,30,https://jsonplaceholder.typicode.com/posts/24,72,0,0
+1791953492802,314,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-15,text,true,,994,325,30,30,https://jsonplaceholder.typicode.com/posts/93,314,0,0
+1791953492817,316,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-27,text,true,,2651,223,30,30,https://jsonplaceholder.typicode.com/posts/56/comments,316,0,0
+1791953493082,66,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-23,text,true,,28471,211,30,30,https://jsonplaceholder.typicode.com/posts,66,0,0
+1791953492849,306,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-13,text,true,,2504,223,30,30,https://jsonplaceholder.typicode.com/posts/44/comments,306,0,0
+1791953492412,753,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-11,text,true,,990,325,30,30,https://jsonplaceholder.typicode.com/posts/18,753,0,0
+1791953492880,298,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-24,text,true,,994,325,30,30,https://jsonplaceholder.typicode.com/posts/52,298,0,0
+1791953493051,138,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-9,text,true,,28463,211,30,30,https://jsonplaceholder.typicode.com/posts,70,0,0
+1791953492942,302,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-25,text,true,,906,236,30,30,https://jsonplaceholder.typicode.com/posts/53,302,0,0
+1791953493204,61,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-5,text,true,,2432,223,30,30,https://jsonplaceholder.typicode.com/posts/85/comments,61,0,0
+1791953493204,66,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-21,text,true,,1186,214,30,30,https://jsonplaceholder.typicode.com/posts/15,66,0,0
+1791953492989,285,04_POST tao bai viet (/posts),201,Created,API Clients 1-7,text,true,,1150,333,30,30,https://jsonplaceholder.typicode.com/posts,285,0,0
+1791953492552,740,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-12,text,true,,991,323,30,30,https://jsonplaceholder.typicode.com/posts/7,740,0,0
+1791953493004,329,04_POST tao bai viet (/posts),201,Created,API Clients 1-26,text,true,,1151,334,30,30,https://jsonplaceholder.typicode.com/posts,329,0,0
+1791953493097,290,04_POST tao bai viet (/posts),201,Created,API Clients 1-17,text,true,,1145,334,30,30,https://jsonplaceholder.typicode.com/posts,290,0,0
+1791953493345,60,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-20,text,true,,1182,214,30,30,https://jsonplaceholder.typicode.com/posts/29,60,0,0
+1791953493345,93,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-10,text,true,,1187,214,30,30,https://jsonplaceholder.typicode.com/posts/56,93,0,0
+1791953493128,310,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-30,text,true,,2450,223,30,30,https://jsonplaceholder.typicode.com/posts/39/comments,310,0,0
+1791953493143,311,04_POST tao bai viet (/posts),201,Created,API Clients 1-6,text,true,,1156,333,30,30,https://jsonplaceholder.typicode.com/posts,311,0,0
+1791953493158,301,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-29,text,true,,2621,223,30,30,https://jsonplaceholder.typicode.com/posts/87/comments,300,0,0
+1791953493158,320,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-1,text,true,,992,325,30,30,https://jsonplaceholder.typicode.com/posts/64,320,0,0
+1791953493423,70,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-18,text,true,,2462,223,30,30,https://jsonplaceholder.typicode.com/posts/24/comments,70,0,0
+1791953493453,64,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-23,text,true,,1236,214,30,30,https://jsonplaceholder.typicode.com/posts/61,64,0,0
+1791953493265,307,04_POST tao bai viet (/posts),201,Created,API Clients 1-3,text,true,,1156,333,30,30,https://jsonplaceholder.typicode.com/posts,307,0,0
+1791953493297,305,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-8,text,true,,1209,214,30,30,https://jsonplaceholder.typicode.com/posts/79,305,0,0
+1791953493297,310,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-22,text,true,,912,236,30,30,https://jsonplaceholder.typicode.com/posts/38,310,0,0
+1791953492989,650,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-4,text,true,,2564,223,30,30,https://jsonplaceholder.typicode.com/posts/25/comments,303,0,0
+1791953493575,72,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-21,text,true,,2508,223,30,30,https://jsonplaceholder.typicode.com/posts/15/comments,72,0,0
+1791953492942,755,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-28,text,true,,995,323,30,30,https://jsonplaceholder.typicode.com/posts/5,755,0,0
+1791953493408,309,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-19,text,true,,1170,214,30,30,https://jsonplaceholder.typicode.com/posts/22,309,0,0
+1791953493423,313,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-15,text,true,,908,236,30,30,https://jsonplaceholder.typicode.com/posts/93,313,0,0
+1791953493560,197,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-25,text,true,,28469,211,30,30,https://jsonplaceholder.typicode.com/posts,76,0,0
+1791953493468,309,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-11,text,true,,904,236,30,30,https://jsonplaceholder.typicode.com/posts/18,309,0,0
+1791953493483,310,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-24,text,true,,902,236,30,30,https://jsonplaceholder.typicode.com/posts/52,310,0,0
+1791953493748,80,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-10,text,true,,2661,223,30,30,https://jsonplaceholder.typicode.com/posts/56/comments,80,0,0
+1791953493575,290,04_POST tao bai viet (/posts),201,Created,API Clients 1-5,text,true,,1156,333,30,30,https://jsonplaceholder.typicode.com/posts,290,0,0
+1791953493575,304,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-7,text,true,,1000,325,30,30,https://jsonplaceholder.typicode.com/posts/94,304,0,0
+1791953493827,59,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-23,text,true,,2604,223,30,30,https://jsonplaceholder.typicode.com/posts/61/comments,58,0,0
+1791953493607,305,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-12,text,true,,910,235,30,30,https://jsonplaceholder.typicode.com/posts/7,305,0,0
+1791953493498,533,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-9,text,true,,1170,214,30,30,https://jsonplaceholder.typicode.com/posts/54,533,0,0
+1791953493748,308,04_POST tao bai viet (/posts),201,Created,API Clients 1-30,text,true,,1143,334,30,30,https://jsonplaceholder.typicode.com/posts,308,0,0
+1791953493468,592,04_POST tao bai viet (/posts),201,Created,API Clients 1-13,text,true,,1147,334,30,30,https://jsonplaceholder.typicode.com/posts,592,0,0
+1791953493297,763,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-14,text,true,,997,323,30,30,https://jsonplaceholder.typicode.com/posts/2,763,0,0
+1791953493919,141,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-22,text,true,,28457,211,30,30,https://jsonplaceholder.typicode.com/posts,75,0,0
+1791953493764,299,04_POST tao bai viet (/posts),201,Created,API Clients 1-29,text,true,,1155,334,30,30,https://jsonplaceholder.typicode.com/posts,299,0,0
+1791953493795,312,04_POST tao bai viet (/posts),201,Created,API Clients 1-18,text,true,,1149,334,30,30,https://jsonplaceholder.typicode.com/posts,312,0,0
+1791953493408,765,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-2,text,true,,998,325,30,30,https://jsonplaceholder.typicode.com/posts/15,765,0,0
+1791953493904,305,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-8,text,true,,2612,223,30,30,https://jsonplaceholder.typicode.com/posts/79/comments,304,0,0
+1791953492864,1358,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-16,text,true,,993,323,30,30,https://jsonplaceholder.typicode.com/posts/7,1358,0,0
+1791953493438,808,04_POST tao bai viet (/posts),201,Created,API Clients 1-27,text,true,,1145,334,30,30,https://jsonplaceholder.typicode.com/posts,808,0,0
+1791953493949,309,04_POST tao bai viet (/posts),201,Created,API Clients 1-4,text,true,,1151,334,30,30,https://jsonplaceholder.typicode.com/posts,309,0,0
+1791953494107,151,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-24,text,true,,28461,211,30,30,https://jsonplaceholder.typicode.com/posts,73,0,0
+1791953493949,314,04_POST tao bai viet (/posts),201,Created,API Clients 1-21,text,true,,1147,334,30,30,https://jsonplaceholder.typicode.com/posts,314,0,0
+1791953493717,546,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-20,text,true,,2471,223,30,30,https://jsonplaceholder.typicode.com/posts/29/comments,546,0,0
+1791953494091,206,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-11,text,true,,28463,211,30,30,https://jsonplaceholder.typicode.com/posts,71,0,0
+1791953494013,308,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-28,text,true,,916,235,30,30,https://jsonplaceholder.typicode.com/posts/5,308,0,0
+1791953494029,298,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-19,text,true,,2530,223,30,30,https://jsonplaceholder.typicode.com/posts/22/comments,298,0,0
+1791953494217,128,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-12,text,true,,28467,211,30,30,https://jsonplaceholder.typicode.com/posts,64,0,0
+1791953494061,300,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-25,text,true,,1168,214,30,30,https://jsonplaceholder.typicode.com/posts/22,300,0,0
+1791953493763,602,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-6,text,true,,994,325,30,30,https://jsonplaceholder.typicode.com/posts/68,602,0,0
+1791953493779,603,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-1,text,true,,912,236,30,30,https://jsonplaceholder.typicode.com/posts/64,603,0,0
+1791953493702,748,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-17,text,true,,991,323,30,30,https://jsonplaceholder.typicode.com/posts/9,748,0,0
+1791953493639,816,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-26,text,true,,992,325,30,30,https://jsonplaceholder.typicode.com/posts/38,816,0,0
+1791953494138,317,04_POST tao bai viet (/posts),201,Created,API Clients 1-10,text,true,,1149,334,30,30,https://jsonplaceholder.typicode.com/posts,317,0,0
+1791953494170,296,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-5,text,true,,1000,325,30,30,https://jsonplaceholder.typicode.com/posts/85,296,0,0
+1791953494185,287,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-7,text,true,,916,236,30,30,https://jsonplaceholder.typicode.com/posts/94,287,0,0
+1791953494201,292,04_POST tao bai viet (/posts),201,Created,API Clients 1-23,text,true,,1145,334,30,30,https://jsonplaceholder.typicode.com/posts,292,0,0
+1791953494046,472,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-15,text,true,,28463,211,30,30,https://jsonplaceholder.typicode.com/posts,81,0,0
+1791953493873,770,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-3,text,true,,990,325,30,30,https://jsonplaceholder.typicode.com/posts/56,770,0,0
+1791953494340,319,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-9,text,true,,2546,223,30,30,https://jsonplaceholder.typicode.com/posts/54/comments,319,0,0
+1791953494372,308,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-22,text,true,,1269,214,30,30,https://jsonplaceholder.typicode.com/posts/63,308,0,0
+1791953494372,313,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-14,text,true,,906,235,30,30,https://jsonplaceholder.typicode.com/posts/2,313,0,0
+1791953494636,72,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-28,text,true,,28463,211,30,30,https://jsonplaceholder.typicode.com/posts,62,0,0
+1791953494651,65,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-12,text,true,,1213,213,30,30,https://jsonplaceholder.typicode.com/posts/4,65,0,0
+1791953494418,310,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-18,text,true,,990,325,30,30,https://jsonplaceholder.typicode.com/posts/24,310,0,0
+1791953494480,301,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-2,text,true,,914,236,30,30,https://jsonplaceholder.typicode.com/posts/15,301,0,0
+1791953494511,284,04_POST tao bai viet (/posts),201,Created,API Clients 1-8,text,true,,1146,333,30,30,https://jsonplaceholder.typicode.com/posts,284,0,0
+1791953494527,310,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-16,text,true,,912,235,30,30,https://jsonplaceholder.typicode.com/posts/7,310,0,0
+1791953494573,287,04_POST tao bai viet (/posts),201,Created,API Clients 1-20,text,true,,1155,334,30,30,https://jsonplaceholder.typicode.com/posts,286,0,0
+1791953494573,298,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-21,text,true,,992,325,30,30,https://jsonplaceholder.typicode.com/posts/15,298,0,0
+1791953494573,317,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-24,text,true,,1212,214,30,30,https://jsonplaceholder.typicode.com/posts/84,317,0,0
+1791953494821,75,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-15,text,true,,1133,214,30,30,https://jsonplaceholder.typicode.com/posts/87,75,0,0
+1791953494605,304,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-11,text,true,,1206,214,30,30,https://jsonplaceholder.typicode.com/posts/84,304,0,0
+1791953494636,305,04_POST tao bai viet (/posts),201,Created,API Clients 1-19,text,true,,1149,334,30,30,https://jsonplaceholder.typicode.com/posts,305,0,0
+1791953494667,304,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-6,text,true,,916,236,30,30,https://jsonplaceholder.typicode.com/posts/68,304,0,0
+1791953494775,204,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-7,text,true,,28459,211,30,30,https://jsonplaceholder.typicode.com/posts,57,0,0
+1791953494666,322,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-25,text,true,,2520,223,30,30,https://jsonplaceholder.typicode.com/posts/22/comments,322,0,0
+1791953494759,285,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-17,text,true,,910,235,30,30,https://jsonplaceholder.typicode.com/posts/9,285,0,0
+1791953494775,291,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-5,text,true,,910,236,30,30,https://jsonplaceholder.typicode.com/posts/85,291,0,0
+1791953494759,307,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-10,text,true,,1002,325,30,30,https://jsonplaceholder.typicode.com/posts/56,307,0,0
+1791953494992,75,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-14,text,true,,28461,211,30,30,https://jsonplaceholder.typicode.com/posts,68,0,0
+1791953494759,310,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-26,text,true,,910,236,30,30,https://jsonplaceholder.typicode.com/posts/38,310,0,0
+1791953494372,745,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-29,text,true,,990,325,30,30,https://jsonplaceholder.typicode.com/posts/87,745,0,0
+1791953494372,746,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-13,text,true,,990,325,30,30,https://jsonplaceholder.typicode.com/posts/44,746,0,0
+1791953494805,316,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-23,text,true,,1000,325,30,30,https://jsonplaceholder.typicode.com/posts/61,316,0,0
+1791953494372,784,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-30,text,true,,990,325,30,30,https://jsonplaceholder.typicode.com/posts/39,784,0,0
+1791953495083,76,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-2,text,true,,28465,211,30,30,https://jsonplaceholder.typicode.com/posts,69,0,0
+1791953494697,464,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-1,text,true,,28465,211,30,30,https://jsonplaceholder.typicode.com/posts,69,0,0
+1791953495146,70,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-16,text,true,,28459,211,30,30,https://jsonplaceholder.typicode.com/posts,64,0,0
+1791953494944,308,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-3,text,true,,914,236,30,30,https://jsonplaceholder.typicode.com/posts/56,308,0,0
+1791953494960,310,04_POST tao bai viet (/posts),201,Created,API Clients 1-9,text,true,,1146,333,30,30,https://jsonplaceholder.typicode.com/posts,310,0,0
+1791953495208,83,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-15,text,true,,2633,223,30,30,https://jsonplaceholder.typicode.com/posts/87/comments,83,0,0
+1791953494573,739,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-4,text,true,,996,325,30,30,https://jsonplaceholder.typicode.com/posts/25,739,0,0
+1791953494992,320,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-22,text,true,,2525,223,30,30,https://jsonplaceholder.typicode.com/posts/63/comments,320,0,0
+1791953495285,61,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-7,text,true,,1186,214,30,30,https://jsonplaceholder.typicode.com/posts/15,61,0,0
+1791953495022,324,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-28,text,true,,1246,214,30,30,https://jsonplaceholder.typicode.com/posts/36,324,0,0
+1791953495037,313,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-18,text,true,,906,236,30,30,https://jsonplaceholder.typicode.com/posts/24,313,0,0
+1791953495022,328,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-12,text,true,,2542,222,30,30,https://jsonplaceholder.typicode.com/posts/4/comments,328,0,0
+1791953495161,291,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-20,text,true,,1004,325,30,30,https://jsonplaceholder.typicode.com/posts/29,291,0,0
+1791953495176,311,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-21,text,true,,908,236,30,30,https://jsonplaceholder.typicode.com/posts/15,311,0,0
+1791953495192,320,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-24,text,true,,2664,223,30,30,https://jsonplaceholder.typicode.com/posts/84/comments,320,0,0
+1791953495223,315,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-11,text,true,,2652,223,30,30,https://jsonplaceholder.typicode.com/posts/84/comments,315,0,0
+1791953495519,70,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-16,text,true,,1175,214,30,30,https://jsonplaceholder.typicode.com/posts/22,70,0,0
+1791953495301,317,04_POST tao bai viet (/posts),201,Created,API Clients 1-25,text,true,,1149,334,30,30,https://jsonplaceholder.typicode.com/posts,317,0,0
+1791953495349,269,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-17,text,true,,28473,211,30,30,https://jsonplaceholder.typicode.com/posts,55,0,0
+1791953495567,99,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-3,text,true,,28473,211,30,30,https://jsonplaceholder.typicode.com/posts,88,0,0
+1791953495380,308,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-10,text,true,,908,236,30,30,https://jsonplaceholder.typicode.com/posts/56,308,0,0
+1791953495425,286,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-29,text,true,,910,236,30,30,https://jsonplaceholder.typicode.com/posts/87,286,0,0
+1791953495425,292,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-23,text,true,,916,236,30,30,https://jsonplaceholder.typicode.com/posts/61,292,0,0
+1791953495659,75,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-18,text,true,,28465,211,30,30,https://jsonplaceholder.typicode.com/posts,66,0,0
+1791953495425,310,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-13,text,true,,902,236,30,30,https://jsonplaceholder.typicode.com/posts/44,310,0,0
+1791953495659,76,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-7,text,true,,2504,223,30,30,https://jsonplaceholder.typicode.com/posts/15/comments,66,0,0
+1791953495471,293,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-30,text,true,,916,236,30,30,https://jsonplaceholder.typicode.com/posts/39,293,0,0
+1791953495471,311,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-1,text,true,,1204,214,30,30,https://jsonplaceholder.typicode.com/posts/37,311,0,0
+1791953495471,313,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-2,text,true,,1182,215,30,30,https://jsonplaceholder.typicode.com/posts/100,313,0,0
+1791953495285,523,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-6,text,true,,28463,211,30,30,https://jsonplaceholder.typicode.com/posts,132,0,0
+1791953494558,1284,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-27,text,true,,986,325,30,30,https://jsonplaceholder.typicode.com/posts/56,1284,0,0
+1791953495099,750,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-8,text,true,,1002,325,30,30,https://jsonplaceholder.typicode.com/posts/79,750,0,0
+1791953495598,320,04_POST tao bai viet (/posts),201,Created,API Clients 1-15,text,true,,1147,334,30,30,https://jsonplaceholder.typicode.com/posts,320,0,0
+1791953495614,314,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-4,text,true,,904,236,30,30,https://jsonplaceholder.typicode.com/posts/25,314,0,0
+1791953495614,314,04_POST tao bai viet (/posts),201,Created,API Clients 1-22,text,true,,1143,334,30,30,https://jsonplaceholder.typicode.com/posts,314,0,0
+1791953495800,128,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-21,text,true,,28461,211,30,30,https://jsonplaceholder.typicode.com/posts,68,0,0
+1791953495380,552,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-26,text,true,,28465,211,30,30,https://jsonplaceholder.typicode.com/posts,72,0,0
+1791953495380,573,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-14,text,true,,1172,214,30,30,https://jsonplaceholder.typicode.com/posts/14,573,0,0
+1791953495893,69,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-16,text,true,,2536,223,30,30,https://jsonplaceholder.typicode.com/posts/22/comments,69,0,0
+1791953495659,304,04_POST tao bai viet (/posts),201,Created,API Clients 1-12,text,true,,1147,334,30,30,https://jsonplaceholder.typicode.com/posts,304,0,0
+1791953495659,321,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-28,text,true,,2333,223,30,30,https://jsonplaceholder.typicode.com/posts/36/comments,321,0,0
+1791953495254,745,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-19,text,true,,994,325,30,30,https://jsonplaceholder.typicode.com/posts/22,745,0,0
+1791953495753,288,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-20,text,true,,908,236,30,30,https://jsonplaceholder.typicode.com/posts/29,288,0,0
+1791953495972,98,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-3,text,true,,1250,214,30,30,https://jsonplaceholder.typicode.com/posts/20,98,0,0
+1791953495380,696,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-5,text,true,,28463,211,30,30,https://jsonplaceholder.typicode.com/posts,55,0,0
+1791953496017,61,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-29,text,true,,28469,211,30,30,https://jsonplaceholder.typicode.com/posts,59,0,0
+1791953496002,83,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-10,text,true,,28459,211,30,30,https://jsonplaceholder.typicode.com/posts,76,0,0
+1791953496049,70,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-13,text,true,,28473,211,30,30,https://jsonplaceholder.typicode.com/posts,63,0,0
+1791953495816,308,04_POST tao bai viet (/posts),201,Created,API Clients 1-24,text,true,,1147,334,30,30,https://jsonplaceholder.typicode.com/posts,308,0,0
+1791953496033,107,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-23,text,true,,28463,211,30,30,https://jsonplaceholder.typicode.com/posts,107,0,0
+1791953496079,68,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-30,text,true,,28469,211,30,30,https://jsonplaceholder.typicode.com/posts,63,0,0
+1791953495847,306,04_POST tao bai viet (/posts),201,Created,API Clients 1-11,text,true,,1151,334,30,30,https://jsonplaceholder.typicode.com/posts,306,0,0
+1791953495924,308,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-25,text,true,,998,325,30,30,https://jsonplaceholder.typicode.com/posts/22,308,0,0
+1791953495924,308,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-17,text,true,,1269,214,30,30,https://jsonplaceholder.typicode.com/posts/63,308,0,0
+1791953496233,75,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-26,text,true,,1192,213,30,30,https://jsonplaceholder.typicode.com/posts/9,75,0,0
+1791953496049,285,04_POST tao bai viet (/posts),201,Created,API Clients 1-7,text,true,,1144,333,30,30,https://jsonplaceholder.typicode.com/posts,285,0,0
+1791953495582,755,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-9,text,true,,998,325,30,30,https://jsonplaceholder.typicode.com/posts/54,755,0,0
+1791953496048,314,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-18,text,true,,1213,214,30,30,https://jsonplaceholder.typicode.com/posts/32,314,0,0
+1791953496094,320,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-2,text,true,,2414,224,30,30,https://jsonplaceholder.typicode.com/posts/100/comments,320,0,0
+1791953496094,320,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-1,text,true,,2445,223,30,30,https://jsonplaceholder.typicode.com/posts/37/comments,320,0,0
+1791953496109,313,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-6,text,true,,1203,214,30,30,https://jsonplaceholder.typicode.com/posts/67,313,0,0
+1791953496389,64,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-5,text,true,,1232,214,30,30,https://jsonplaceholder.typicode.com/posts/61,64,0,0
+1791953496343,116,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-20,text,true,,28463,211,30,30,https://jsonplaceholder.typicode.com/posts,67,0,0
+1791953496156,304,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-27,text,true,,910,236,30,30,https://jsonplaceholder.typicode.com/posts/56,304,0,0
+1791953496156,310,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-8,text,true,,918,236,30,30,https://jsonplaceholder.typicode.com/posts/79,310,0,0
+1791953496373,104,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-3,text,true,,2458,223,30,30,https://jsonplaceholder.typicode.com/posts/20/comments,104,0,0
+1791953496450,66,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-30,text,true,,1232,213,30,30,https://jsonplaceholder.typicode.com/posts/3,66,0,0
+1791953496233,305,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-21,text,true,,1209,214,30,30,https://jsonplaceholder.typicode.com/posts/49,305,0,0
+1791953496420,129,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-13,text,true,,1265,214,30,30,https://jsonplaceholder.typicode.com/posts/38,129,0,0
+1791953496233,330,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-15,text,true,,994,325,30,30,https://jsonplaceholder.typicode.com/posts/87,330,0,0
+1791953496266,308,04_POST tao bai viet (/posts),201,Created,API Clients 1-16,text,true,,1154,335,30,30,https://jsonplaceholder.typicode.com/posts,308,0,0
+1791953496281,304,04_POST tao bai viet (/posts),201,Created,API Clients 1-28,text,true,,1154,335,30,30,https://jsonplaceholder.typicode.com/posts,304,0,0
+1791953496266,327,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-14,text,true,,2598,223,30,30,https://jsonplaceholder.typicode.com/posts/14/comments,327,0,0
+1791953496311,301,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-19,text,true,,910,236,30,30,https://jsonplaceholder.typicode.com/posts/22,301,0,0
+1791953496620,78,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-26,text,true,,2359,222,30,30,https://jsonplaceholder.typicode.com/posts/9/comments,78,0,0
+1791953496233,465,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-4,text,true,,28469,211,30,30,https://jsonplaceholder.typicode.com/posts,72,0,0
+1791953496389,321,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-10,text,true,,1171,214,30,30,https://jsonplaceholder.typicode.com/posts/24,321,0,0
+1791953496451,313,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-23,text,true,,1201,214,30,30,https://jsonplaceholder.typicode.com/posts/65,313,0,0
+1791953496762,64,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-5,text,true,,2600,223,30,30,https://jsonplaceholder.typicode.com/posts/61/comments,64,0,0
+1791953496761,65,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-20,text,true,,1189,214,30,30,https://jsonplaceholder.typicode.com/posts/56,65,0,0
+1791953496542,308,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-25,text,true,,912,236,30,30,https://jsonplaceholder.typicode.com/posts/22,308,0,0
+1791953496542,314,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-17,text,true,,2519,223,30,30,https://jsonplaceholder.typicode.com/posts/63/comments,314,0,0
+1791953496762,149,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-27,text,true,,28463,211,30,30,https://jsonplaceholder.typicode.com/posts,71,0,0
+1791953496636,286,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-7,text,true,,990,325,30,30,https://jsonplaceholder.typicode.com/posts/15,286,0,0
+1791953496856,79,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-13,text,true,,2592,223,30,30,https://jsonplaceholder.typicode.com/posts/38/comments,79,0,0
+1791953496777,168,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-8,text,true,,28457,211,30,30,https://jsonplaceholder.typicode.com/posts,59,0,0
+1791953496653,310,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-9,text,true,,914,236,30,30,https://jsonplaceholder.typicode.com/posts/54,310,0,0
+1791953496669,328,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-18,text,true,,2463,223,30,30,https://jsonplaceholder.typicode.com/posts/32/comments,328,0,0
+1791953496265,755,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-12,text,true,,993,323,30,30,https://jsonplaceholder.typicode.com/posts/4,755,0,0
+1791953496730,300,04_POST tao bai viet (/posts),201,Created,API Clients 1-1,text,true,,1149,334,30,30,https://jsonplaceholder.typicode.com/posts,300,0,0
+1791953496729,325,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-6,text,true,,2563,223,30,30,https://jsonplaceholder.typicode.com/posts/67/comments,325,0,0
+1791953496999,74,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-4,text,true,,1198,214,30,30,https://jsonplaceholder.typicode.com/posts/96,74,0,0
+1791953496794,306,04_POST tao bai viet (/posts),201,Created,API Clients 1-3,text,true,,1151,334,30,30,https://jsonplaceholder.typicode.com/posts,306,0,0
+1791953496825,314,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-30,text,true,,2499,222,30,30,https://jsonplaceholder.typicode.com/posts/3/comments,314,0,0
+1791953496841,309,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-21,text,true,,2405,223,30,30,https://jsonplaceholder.typicode.com/posts/49/comments,309,0,0
+1791953496871,312,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-15,text,true,,904,236,30,30,https://jsonplaceholder.typicode.com/posts/87,312,0,0
+1791953496888,299,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-16,text,true,,990,325,30,30,https://jsonplaceholder.typicode.com/posts/22,299,0,0
+1791953497139,56,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-20,text,true,,2667,223,30,30,https://jsonplaceholder.typicode.com/posts/56/comments,56,0,0
+1791953496435,781,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-24,text,true,,998,325,30,30,https://jsonplaceholder.typicode.com/posts/84,781,0,0
+1791953496904,312,04_POST tao bai viet (/posts),201,Created,API Clients 1-14,text,true,,1150,335,30,30,https://jsonplaceholder.typicode.com/posts,312,0,0
+1791953496465,753,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-11,text,true,,996,325,30,30,https://jsonplaceholder.typicode.com/posts/84,753,0,0
+1791953497155,73,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-25,text,true,,28469,211,30,30,https://jsonplaceholder.typicode.com/posts,68,0,0
+1791953496389,845,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-29,text,true,,1162,214,30,30,https://jsonplaceholder.typicode.com/posts/66,845,0,0
+1791953496730,576,04_POST tao bai viet (/posts),201,Created,API Clients 1-2,text,true,,1143,334,30,30,https://jsonplaceholder.typicode.com/posts,576,0,0
+1791953496233,1079,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-22,text,true,,990,325,30,30,https://jsonplaceholder.typicode.com/posts/63,1079,0,0
+1791953496999,322,04_POST tao bai viet (/posts),201,Created,API Clients 1-26,text,true,,1146,335,30,30,https://jsonplaceholder.typicode.com/posts,322,0,0
+1791953497020,326,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-10,text,true,,2470,223,30,30,https://jsonplaceholder.typicode.com/posts/24/comments,326,0,0
+1791953497276,81,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-9,text,true,,28467,211,30,30,https://jsonplaceholder.typicode.com/posts,74,0,0
+1791953497139,290,04_POST tao bai viet (/posts),201,Created,API Clients 1-5,text,true,,1145,334,30,30,https://jsonplaceholder.typicode.com/posts,290,0,0
+1791953497077,363,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-23,text,true,,2452,223,30,30,https://jsonplaceholder.typicode.com/posts/65/comments,363,0,0
+1791953496920,521,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-19,text,true,,28461,211,30,30,https://jsonplaceholder.typicode.com/posts,64,0,0
+1791953497385,75,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-4,text,true,,2493,223,30,30,https://jsonplaceholder.typicode.com/posts/96/comments,75,0,0
+1791953497170,293,04_POST tao bai viet (/posts),201,Created,API Clients 1-17,text,true,,1148,335,30,30,https://jsonplaceholder.typicode.com/posts,293,0,0
+1791953497231,306,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-7,text,true,,910,236,30,30,https://jsonplaceholder.typicode.com/posts/15,306,0,0
+1791953497215,322,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-27,text,true,,1205,214,30,30,https://jsonplaceholder.typicode.com/posts/79,322,0,0
+1791953497246,301,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-8,text,true,,1172,214,29,29,https://jsonplaceholder.typicode.com/posts/71,301,0,0
+1791953497492,79,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-15,text,true,,28469,211,29,29,https://jsonplaceholder.typicode.com/posts,70,0,0
+1791953497538,72,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-25,text,true,,1211,213,29,29,https://jsonplaceholder.typicode.com/posts/4,72,0,0
+1791953497308,307,04_POST tao bai viet (/posts),201,Created,API Clients 1-18,text,true,,1150,335,29,29,https://jsonplaceholder.typicode.com/posts,307,0,0
+1791953497246,383,04_POST tao bai viet (/posts),201,Created,API Clients 1-13,text,true,,1146,335,29,29,https://jsonplaceholder.typicode.com/posts,383,0,0
+1791953497323,306,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-12,text,true,,916,235,29,29,https://jsonplaceholder.typicode.com/posts/4,306,0,0
+1791953497369,306,04_POST tao bai viet (/posts),201,Created,API Clients 1-6,text,true,,1151,334,29,29,https://jsonplaceholder.typicode.com/posts,306,0,0
+1791953496888,790,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-28,text,true,,994,325,29,29,https://jsonplaceholder.typicode.com/posts/36,790,0,0
+1791953497415,310,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-3,text,true,,994,325,29,29,https://jsonplaceholder.typicode.com/posts/20,310,0,0
+1791953497663,69,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-9,text,true,,1171,213,29,29,https://jsonplaceholder.typicode.com/posts/5,69,0,0
+1791953497445,295,04_POST tao bai viet (/posts),201,Created,API Clients 1-30,text,true,,1153,336,29,29,https://jsonplaceholder.typicode.com/posts,295,0,0
+1791953497507,287,04_POST tao bai viet (/posts),201,Created,API Clients 1-20,text,true,,1146,335,29,29,https://jsonplaceholder.typicode.com/posts,287,0,0
+1791953497492,311,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-16,text,true,,910,236,29,29,https://jsonplaceholder.typicode.com/posts/22,311,0,0
+1791953497523,312,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-24,text,true,,908,236,29,29,https://jsonplaceholder.typicode.com/posts/84,312,0,0
+1791953497523,315,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-11,text,true,,912,236,29,29,https://jsonplaceholder.typicode.com/posts/84,315,0,0
+1791953497538,306,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-29,text,true,,2552,223,29,29,https://jsonplaceholder.typicode.com/posts/66/comments,306,0,0
+1791953497617,315,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-22,text,true,,908,236,29,29,https://jsonplaceholder.typicode.com/posts/63,314,0,0
+1791953497632,311,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-26,text,true,,989,323,29,29,https://jsonplaceholder.typicode.com/posts/9,311,0,0
+1791953497880,73,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-15,text,true,,1215,214,29,29,https://jsonplaceholder.typicode.com/posts/84,73,0,0
+1791953497647,308,04_POST tao bai viet (/posts),201,Created,API Clients 1-10,text,true,,1142,335,29,29,https://jsonplaceholder.typicode.com/posts,308,0,0
+1791953497912,71,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-25,text,true,,2552,222,29,29,https://jsonplaceholder.typicode.com/posts/4/comments,71,0,0
+1791953497942,73,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-12,text,true,,28465,211,29,29,https://jsonplaceholder.typicode.com/posts,67,0,0
+1791953497740,290,04_POST tao bai viet (/posts),201,Created,API Clients 1-23,text,true,,1152,335,29,29,https://jsonplaceholder.typicode.com/posts,290,0,0
+1791953497741,303,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-5,text,true,,996,325,29,29,https://jsonplaceholder.typicode.com/posts/61,303,0,0
+1791953497771,312,04_POST tao bai viet (/posts),201,Created,API Clients 1-4,text,true,,1151,334,29,29,https://jsonplaceholder.typicode.com/posts,312,0,0
+1791953497755,328,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-19,text,true,,1270,214,29,29,https://jsonplaceholder.typicode.com/posts/50,328,0,0
+1791953497338,791,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-1,text,true,,994,325,29,29,https://jsonplaceholder.typicode.com/posts/37,791,0,0
+1791953497849,286,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-8,text,true,,2479,223,29,29,https://jsonplaceholder.typicode.com/posts/71/comments,286,0,0
+1791953497849,307,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-27,text,true,,2608,223,29,29,https://jsonplaceholder.typicode.com/posts/79/comments,307,0,0
+1791953497462,753,04_POST tao bai viet (/posts),201,Created,API Clients 1-21,text,true,,1146,335,29,29,https://jsonplaceholder.typicode.com/posts,753,0,0
+1791953498144,78,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-24,text,true,,28463,211,29,29,https://jsonplaceholder.typicode.com/posts,72,0,0
+1791953497942,318,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-13,text,true,,996,325,29,29,https://jsonplaceholder.typicode.com/posts/38,318,0,0
+1791953498114,147,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-16,text,true,,28469,211,29,29,https://jsonplaceholder.typicode.com/posts,65,0,0
+1791953497522,763,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-14,text,true,,994,325,29,29,https://jsonplaceholder.typicode.com/posts/14,763,0,0
+1791953497988,308,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-28,text,true,,902,236,29,29,https://jsonplaceholder.typicode.com/posts/36,308,0,0
+1791953497988,308,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-6,text,true,,994,325,29,29,https://jsonplaceholder.typicode.com/posts/67,308,0,0
+1791953498144,152,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-11,text,true,,28465,211,29,29,https://jsonplaceholder.typicode.com/posts,68,0,0
+1791953498240,76,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-22,text,true,,28459,211,29,29,https://jsonplaceholder.typicode.com/posts,69,0,0
+1791953498255,76,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-15,text,true,,2654,223,29,29,https://jsonplaceholder.typicode.com/posts/84/comments,74,0,0
+1791953498036,302,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-9,text,true,,2477,222,29,29,https://jsonplaceholder.typicode.com/posts/5/comments,302,0,0
+1791953498036,316,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-3,text,true,,900,236,29,29,https://jsonplaceholder.typicode.com/posts/20,316,0,0
+1791953498318,62,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-12,text,true,,1206,213,28,28,https://jsonplaceholder.typicode.com/posts/9,62,0,0
+1791953498099,294,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-20,text,true,,994,325,28,28,https://jsonplaceholder.typicode.com/posts/56,294,0,0
+1791953497617,798,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-2,text,true,,997,327,28,28,https://jsonplaceholder.typicode.com/posts/100,798,0,0
+1791953498144,295,04_POST tao bai viet (/posts),201,Created,API Clients 1-29,text,true,,1148,335,28,28,https://jsonplaceholder.typicode.com/posts,295,0,0
+1791953497771,743,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-17,text,true,,996,325,28,28,https://jsonplaceholder.typicode.com/posts/63,743,0,0
+1791953498255,313,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-26,text,true,,904,235,28,28,https://jsonplaceholder.typicode.com/posts/9,313,0,0
+1791953498286,300,04_POST tao bai viet (/posts),201,Created,API Clients 1-25,text,true,,1154,335,28,28,https://jsonplaceholder.typicode.com/posts,300,0,0
+1791953498535,69,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-24,text,true,,1183,214,28,28,https://jsonplaceholder.typicode.com/posts/22,69,0,0
+1791953498566,76,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-16,text,true,,1209,213,28,28,https://jsonplaceholder.typicode.com/posts/8,76,0,0
+1791953498349,319,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-5,text,true,,910,236,28,28,https://jsonplaceholder.typicode.com/posts/61,319,0,0
+1791953498598,74,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-11,text,true,,1204,214,27,27,https://jsonplaceholder.typicode.com/posts/11,74,0,0
+1791953498598,74,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-28,text,true,,28471,211,27,27,https://jsonplaceholder.typicode.com/posts,74,0,0
+1791953498395,300,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-4,text,true,,990,325,27,27,https://jsonplaceholder.typicode.com/posts/96,300,0,0
+1791953498395,314,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-19,text,true,,2541,223,27,27,https://jsonplaceholder.typicode.com/posts/50/comments,309,0,0
+1791953498441,289,04_POST tao bai viet (/posts),201,Created,API Clients 1-8,text,true,,1145,334,27,27,https://jsonplaceholder.typicode.com/posts,289,0,0
+1791953498441,304,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-1,text,true,,914,236,27,27,https://jsonplaceholder.typicode.com/posts/37,304,0,0
+1791953497927,818,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-18,text,true,,990,325,27,27,https://jsonplaceholder.typicode.com/posts/32,818,0,0
+1791953498457,305,04_POST tao bai viet (/posts),201,Created,API Clients 1-27,text,true,,1154,335,26,26,https://jsonplaceholder.typicode.com/posts,305,0,0
+1791953498052,797,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-30,text,true,,993,323,26,26,https://jsonplaceholder.typicode.com/posts/3,797,0,0
+1791953498566,309,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-13,text,true,,910,236,26,26,https://jsonplaceholder.typicode.com/posts/38,309,0,0
+1791953498598,304,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-6,text,true,,906,236,26,26,https://jsonplaceholder.typicode.com/posts/67,304,0,0
+1791953498598,315,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-14,text,true,,906,236,25,25,https://jsonplaceholder.typicode.com/posts/14,315,0,0
+1791953498629,314,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-22,text,true,,1168,214,25,25,https://jsonplaceholder.typicode.com/posts/33,314,0,0
+1791953498645,311,04_POST tao bai viet (/posts),201,Created,API Clients 1-15,text,true,,1146,335,25,25,https://jsonplaceholder.typicode.com/posts,311,0,0
+1791953498877,79,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-26,text,true,,28467,211,25,25,https://jsonplaceholder.typicode.com/posts,71,0,0
+1791953498644,318,04_POST tao bai viet (/posts),201,Created,API Clients 1-9,text,true,,1143,334,25,25,https://jsonplaceholder.typicode.com/posts,318,0,0
+1791953498909,70,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-24,text,true,,2536,223,25,25,https://jsonplaceholder.typicode.com/posts/22/comments,70,0,0
+1791953498690,296,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-12,text,true,,2343,222,25,25,https://jsonplaceholder.typicode.com/posts/9/comments,296,0,0
+1791953498706,286,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-20,text,true,,916,236,25,25,https://jsonplaceholder.typicode.com/posts/56,286,0,0
+1791953498722,303,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-2,text,true,,904,237,25,25,https://jsonplaceholder.typicode.com/posts/100,303,0,0
+1791953498270,772,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-10,text,true,,990,325,24,24,https://jsonplaceholder.typicode.com/posts/24,772,0,0
+1791953498988,65,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-11,text,true,,2529,223,24,24,https://jsonplaceholder.typicode.com/posts/11/comments,65,0,0
+1791953498334,746,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-23,text,true,,988,325,24,24,https://jsonplaceholder.typicode.com/posts/65,746,0,0
+1791953498816,287,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-17,text,true,,916,236,24,24,https://jsonplaceholder.typicode.com/posts/63,287,0,0
+1791953498893,299,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-25,text,true,,991,323,24,24,https://jsonplaceholder.typicode.com/posts/4,299,0,0
+1791953499189,72,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-13,text,true,,28457,211,24,24,https://jsonplaceholder.typicode.com/posts,70,0,0
+1791953498956,311,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-16,text,true,,2391,222,24,24,https://jsonplaceholder.typicode.com/posts/8/comments,311,0,0
+1791953499220,73,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-14,text,true,,28471,211,24,24,https://jsonplaceholder.typicode.com/posts,66,0,0
+1791953498519,785,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-21,text,true,,998,325,24,24,https://jsonplaceholder.typicode.com/posts/49,785,0,0
+1791953498987,318,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-28,text,true,,1256,214,24,24,https://jsonplaceholder.typicode.com/posts/97,318,0,0
+1791953499003,310,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-4,text,true,,908,236,24,24,https://jsonplaceholder.typicode.com/posts/96,310,0,0
+1791953499019,299,04_POST tao bai viet (/posts),201,Created,API Clients 1-19,text,true,,1146,335,23,23,https://jsonplaceholder.typicode.com/posts,299,0,0
+1791953499265,75,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-26,text,true,,1282,214,23,23,https://jsonplaceholder.typicode.com/posts/63,75,0,0
+1791953499296,58,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-20,text,true,,28473,211,23,23,https://jsonplaceholder.typicode.com/posts,54,0,0
+1791953499050,307,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-18,text,true,,912,236,23,23,https://jsonplaceholder.typicode.com/posts/32,307,0,0
+1791953499157,297,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-30,text,true,,904,235,23,23,https://jsonplaceholder.typicode.com/posts/3,297,0,0
+1791953499418,58,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-17,text,true,,28469,211,23,23,https://jsonplaceholder.typicode.com/posts,53,0,0
+1791953498754,753,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-29,text,true,,990,325,23,23,https://jsonplaceholder.typicode.com/posts/66,753,0,0
+1791953499250,310,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-22,text,true,,2528,223,23,23,https://jsonplaceholder.typicode.com/posts/33/comments,310,0,0
+1791953499265,312,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-15,text,true,,994,325,23,23,https://jsonplaceholder.typicode.com/posts/84,312,0,0
+1791953499281,308,04_POST tao bai viet (/posts),201,Created,API Clients 1-24,text,true,,1157,336,23,23,https://jsonplaceholder.typicode.com/posts,308,0,0
+1791953499296,318,04_POST tao bai viet (/posts),201,Created,API Clients 1-12,text,true,,1144,335,23,23,https://jsonplaceholder.typicode.com/posts,318,0,0
+1791953499357,312,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-10,text,true,,910,236,23,23,https://jsonplaceholder.typicode.com/posts/24,312,0,0
+1791953499357,312,04_POST tao bai viet (/posts),201,Created,API Clients 1-11,text,true,,1146,335,23,23,https://jsonplaceholder.typicode.com/posts,312,0,0
+1791953499387,292,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-23,text,true,,908,236,22,22,https://jsonplaceholder.typicode.com/posts/65,292,0,0
+1791953499648,83,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-26,text,true,,2529,223,22,22,https://jsonplaceholder.typicode.com/posts/63/comments,83,0,0
+1791953499664,92,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-18,text,true,,28463,211,22,22,https://jsonplaceholder.typicode.com/posts,71,0,0
+1791953499034,748,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-8,text,true,,996,325,22,22,https://jsonplaceholder.typicode.com/posts/71,748,0,0
+1791953499510,297,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-25,text,true,,910,235,22,22,https://jsonplaceholder.typicode.com/posts/4,297,0,0
+1791953499759,79,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-30,text,true,,28463,211,22,22,https://jsonplaceholder.typicode.com/posts,75,0,0
+1791953499790,72,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-17,text,true,,1163,214,22,22,https://jsonplaceholder.typicode.com/posts/18,72,0,0
+1791953499066,796,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-27,text,true,,990,325,22,22,https://jsonplaceholder.typicode.com/posts/79,796,0,0
+1791953499572,301,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-13,text,true,,1196,214,22,22,https://jsonplaceholder.typicode.com/posts/48,301,0,0
+1791953499571,308,04_POST tao bai viet (/posts),201,Created,API Clients 1-16,text,true,,1150,335,22,22,https://jsonplaceholder.typicode.com/posts,308,0,0
+1791953499618,301,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-21,text,true,,908,236,22,22,https://jsonplaceholder.typicode.com/posts/49,300,0,0
+1791953499602,327,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-14,text,true,,1134,214,22,22,https://jsonplaceholder.typicode.com/posts/76,327,0,0
+1791953499618,314,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-28,text,true,,2441,223,22,22,https://jsonplaceholder.typicode.com/posts/97/comments,314,0,0
+1791953499664,315,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-20,text,true,,1252,214,22,22,https://jsonplaceholder.typicode.com/posts/69,315,0,0
+1791953499265,808,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-9,text,true,,995,323,22,22,https://jsonplaceholder.typicode.com/posts/5,808,0,0
+1791953499992,81,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-23,text,true,,28459,211,22,22,https://jsonplaceholder.typicode.com/posts,81,0,0
+1791953499822,289,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-29,text,true,,910,236,22,22,https://jsonplaceholder.typicode.com/posts/66,289,0,0
+1791953499868,318,04_POST tao bai viet (/posts),201,Created,API Clients 1-22,text,true,,1152,335,22,22,https://jsonplaceholder.typicode.com/posts,318,0,0
+1791953500114,74,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-25,text,true,,28467,211,22,22,https://jsonplaceholder.typicode.com/posts,70,0,0
+1791953499899,301,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-24,text,true,,990,325,22,22,https://jsonplaceholder.typicode.com/posts/22,301,0,0
+1791953499883,319,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-15,text,true,,912,236,22,22,https://jsonplaceholder.typicode.com/posts/84,319,0,0
+1791953500146,65,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-30,text,true,,1181,214,21,21,https://jsonplaceholder.typicode.com/posts/51,65,0,0
+1791953500162,55,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-17,text,true,,2575,223,21,21,https://jsonplaceholder.typicode.com/posts/18/comments,55,0,0
+1791953499977,319,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-11,text,true,,1008,325,21,21,https://jsonplaceholder.typicode.com/posts/11,319,0,0
+1791953500224,72,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-21,text,true,,28463,211,21,21,https://jsonplaceholder.typicode.com/posts,67,0,0
+1791953500038,324,04_POST tao bai viet (/posts),201,Created,API Clients 1-26,text,true,,1148,335,21,21,https://jsonplaceholder.typicode.com/posts,324,0,0
+1791953500084,293,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-8,text,true,,910,236,21,21,https://jsonplaceholder.typicode.com/posts/71,293,0,0
+1791953500069,309,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-18,text,true,,1141,214,21,21,https://jsonplaceholder.typicode.com/posts/98,309,0,0
+1791953499633,749,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-19,text,true,,1000,325,20,20,https://jsonplaceholder.typicode.com/posts/50,749,0,0
+1791953500380,58,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-23,text,true,,1204,214,20,20,https://jsonplaceholder.typicode.com/posts/53,58,0,0
+1791953500411,61,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-29,text,true,,28465,211,20,20,https://jsonplaceholder.typicode.com/posts,56,0,0
+1791953500177,309,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-27,text,true,,912,236,20,20,https://jsonplaceholder.typicode.com/posts/79,309,0,0
+1791953500177,309,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-13,text,true,,2660,223,20,20,https://jsonplaceholder.typicode.com/posts/48/comments,309,0,0
+1791953500240,311,04_POST tao bai viet (/posts),201,Created,API Clients 1-28,text,true,,1146,335,20,20,https://jsonplaceholder.typicode.com/posts,311,0,0
+1791953500240,317,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-14,text,true,,2475,223,20,20,https://jsonplaceholder.typicode.com/posts/76/comments,317,0,0
+1791953500504,67,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-25,text,true,,1212,214,20,20,https://jsonplaceholder.typicode.com/posts/49,67,0,0
+1791953500519,65,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-30,text,true,,2542,223,20,20,https://jsonplaceholder.typicode.com/posts/51/comments,65,0,0
+1791953500286,307,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-20,text,true,,2492,223,20,20,https://jsonplaceholder.typicode.com/posts/69/comments,307,0,0
+1791953499914,755,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-12,text,true,,993,323,20,20,https://jsonplaceholder.typicode.com/posts/9,755,0,0
+1791953500611,71,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-21,text,true,,1175,214,20,20,https://jsonplaceholder.typicode.com/posts/71,71,0,0
+1791953500380,312,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-9,text,true,,914,235,20,20,https://jsonplaceholder.typicode.com/posts/5,312,0,0
+1791953500519,288,04_POST tao bai viet (/posts),201,Created,API Clients 1-17,text,true,,1152,335,19,19,https://jsonplaceholder.typicode.com/posts,288,0,0
+1791953500752,58,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-23,text,true,,2508,223,19,19,https://jsonplaceholder.typicode.com/posts/53/comments,58,0,0
+1791953500504,308,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-24,text,true,,910,236,19,19,https://jsonplaceholder.typicode.com/posts/22,308,0,0
+1791953500784,62,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-29,text,true,,1257,214,19,19,https://jsonplaceholder.typicode.com/posts/38,62,0,0
+1791953500800,76,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-27,text,true,,28461,211,19,19,https://jsonplaceholder.typicode.com/posts,67,0,0
+1791953500879,67,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-25,text,true,,2425,223,19,19,https://jsonplaceholder.typicode.com/posts/49/comments,67,0,0
+1791953500611,339,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-11,text,true,,916,236,19,19,https://jsonplaceholder.typicode.com/posts/11,339,0,0
+1791953500193,789,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-16,text,true,,993,323,18,18,https://jsonplaceholder.typicode.com/posts/8,789,0,0
+1791953500673,319,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-26,text,true,,992,325,18,18,https://jsonplaceholder.typicode.com/posts/63,319,0,0
+1791953500689,305,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-19,text,true,,920,236,18,18,https://jsonplaceholder.typicode.com/posts/50,305,0,0
+1791953500689,328,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-18,text,true,,2485,223,18,18,https://jsonplaceholder.typicode.com/posts/98/comments,328,0,0
+1791953500989,71,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-21,text,true,,2487,223,18,18,https://jsonplaceholder.typicode.com/posts/71/comments,70,0,0
+1791953500800,311,04_POST tao bai viet (/posts),201,Created,API Clients 1-13,text,true,,1148,335,18,18,https://jsonplaceholder.typicode.com/posts,311,0,0
+1791953500862,318,04_POST tao bai viet (/posts),201,Created,API Clients 1-14,text,true,,1149,336,18,18,https://jsonplaceholder.typicode.com/posts,317,0,0
+1791953500894,286,04_POST tao bai viet (/posts),201,Created,API Clients 1-20,text,true,,1152,335,18,18,https://jsonplaceholder.typicode.com/posts,286,0,0
+1791953500894,292,04_POST tao bai viet (/posts),201,Created,API Clients 1-30,text,true,,1150,335,18,18,https://jsonplaceholder.typicode.com/posts,292,0,0
+1791953501114,78,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-24,text,true,,28463,211,18,18,https://jsonplaceholder.typicode.com/posts,68,0,0
+1791953501162,62,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-29,text,true,,2587,223,18,18,https://jsonplaceholder.typicode.com/posts/38/comments,62,0,0
+1791953501177,71,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-27,text,true,,1171,214,18,18,https://jsonplaceholder.typicode.com/posts/64,71,0,0
+1791953500973,307,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-12,text,true,,910,235,18,18,https://jsonplaceholder.typicode.com/posts/9,307,0,0
+1791953500488,792,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-22,text,true,,996,325,18,18,https://jsonplaceholder.typicode.com/posts/33,792,0,0
+1791953501114,295,04_POST tao bai viet (/posts),201,Created,API Clients 1-23,text,true,,1152,335,17,17,https://jsonplaceholder.typicode.com/posts,295,0,0
+1791953501114,295,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-17,text,true,,998,325,17,17,https://jsonplaceholder.typicode.com/posts/18,295,0,0
+1791953501301,268,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-19,text,true,,28463,211,17,17,https://jsonplaceholder.typicode.com/posts,183,0,0
+1791953501501,70,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-24,text,true,,1227,214,17,17,https://jsonplaceholder.typicode.com/posts/32,70,0,0
+1791953501255,316,04_POST tao bai viet (/posts),201,Created,API Clients 1-25,text,true,,1148,335,17,17,https://jsonplaceholder.typicode.com/posts,316,0,0
+1791953501285,306,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-16,text,true,,908,235,17,17,https://jsonplaceholder.typicode.com/posts/8,306,0,0
+1791953501301,317,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-26,text,true,,912,236,16,16,https://jsonplaceholder.typicode.com/posts/63,317,0,0
+1791953500862,761,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-28,text,true,,994,325,16,16,https://jsonplaceholder.typicode.com/posts/97,761,0,0
+1791953501563,68,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-27,text,true,,2564,223,16,16,https://jsonplaceholder.typicode.com/posts/64/comments,68,0,0
+1791953501330,324,04_POST tao bai viet (/posts),201,Created,API Clients 1-18,text,true,,1150,335,16,16,https://jsonplaceholder.typicode.com/posts,324,0,0
+1791953501361,302,04_POST tao bai viet (/posts),201,Created,API Clients 1-21,text,true,,1152,335,16,16,https://jsonplaceholder.typicode.com/posts,302,0,0
+1791953501501,335,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-30,text,true,,988,325,16,16,https://jsonplaceholder.typicode.com/posts/51,335,0,0
+1791953501532,304,04_POST tao bai viet (/posts),201,Created,API Clients 1-29,text,true,,1146,335,16,16,https://jsonplaceholder.typicode.com/posts,304,0,0
+1791953501593,318,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-22,text,true,,904,236,16,16,https://jsonplaceholder.typicode.com/posts/33,318,0,0
+1791953501874,70,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-24,text,true,,2471,223,16,16,https://jsonplaceholder.typicode.com/posts/32/comments,70,0,0
+1791953501922,80,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-26,text,true,,28457,211,16,16,https://jsonplaceholder.typicode.com/posts,73,0,0
+1791953501718,293,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-23,text,true,,988,325,16,16,https://jsonplaceholder.typicode.com/posts/53,293,0,0
+1791953501718,293,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-17,text,true,,908,236,16,16,https://jsonplaceholder.typicode.com/posts/18,293,0,0
+1791953501874,311,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-19,text,true,,1171,214,15,15,https://jsonplaceholder.typicode.com/posts/15,311,0,0
+1791953501874,330,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-25,text,true,,992,325,15,15,https://jsonplaceholder.typicode.com/posts/49,330,0,0
+1791953501424,797,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-13,text,true,,1012,325,15,15,https://jsonplaceholder.typicode.com/posts/48,797,0,0
+1791953501486,751,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-20,text,true,,1002,325,15,15,https://jsonplaceholder.typicode.com/posts/69,751,0,0
+1791953501937,306,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-28,text,true,,906,236,15,15,https://jsonplaceholder.typicode.com/posts/97,306,0,0
+1791953501937,309,04_POST tao bai viet (/posts),201,Created,API Clients 1-27,text,true,,1148,335,15,15,https://jsonplaceholder.typicode.com/posts,309,0,0
+1791953501486,763,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-14,text,true,,990,325,15,15,https://jsonplaceholder.typicode.com/posts/76,763,0,0
+1791953501968,308,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-21,text,true,,992,325,15,15,https://jsonplaceholder.typicode.com/posts/71,308,0,0
+1791953502216,132,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-22,text,true,,28469,211,15,15,https://jsonplaceholder.typicode.com/posts,131,0,0
+1791953502137,316,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-29,text,true,,996,325,15,15,https://jsonplaceholder.typicode.com/posts/38,316,0,0
+1791953502137,316,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-30,text,true,,908,236,15,15,https://jsonplaceholder.typicode.com/posts/51,316,0,0
+1791953502247,307,04_POST tao bai viet (/posts),201,Created,API Clients 1-24,text,true,,1150,335,15,15,https://jsonplaceholder.typicode.com/posts,307,0,0
+1791953502326,294,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-23,text,true,,904,236,15,15,https://jsonplaceholder.typicode.com/posts/53,294,0,0
+1791953502310,317,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-26,text,true,,1229,214,14,14,https://jsonplaceholder.typicode.com/posts/95,317,0,0
+1791953502557,70,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-28,text,true,,28473,211,14,14,https://jsonplaceholder.typicode.com/posts,63,0,0
+1791953501968,746,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-18,text,true,,994,325,14,14,https://jsonplaceholder.typicode.com/posts/98,746,0,0
+1791953502496,322,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-19,text,true,,2502,223,14,14,https://jsonplaceholder.typicode.com/posts/15/comments,316,0,0
+1791953502541,290,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-20,text,true,,906,236,14,14,https://jsonplaceholder.typicode.com/posts/69,290,0,0
+1791953502758,73,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-30,text,true,,28459,211,14,14,https://jsonplaceholder.typicode.com/posts,61,0,0
+1791953502526,310,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-13,text,true,,910,236,13,13,https://jsonplaceholder.typicode.com/posts/48,310,0,0
+1791953502511,377,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-25,text,true,,906,236,12,12,https://jsonplaceholder.typicode.com/posts/49,377,0,0
+1791953502557,331,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-14,text,true,,914,236,12,12,https://jsonplaceholder.typicode.com/posts/76,331,0,0
+1791953502557,331,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-27,text,true,,992,325,12,12,https://jsonplaceholder.typicode.com/posts/64,331,0,0
+1791953502589,314,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-21,text,true,,912,236,10,10,https://jsonplaceholder.typicode.com/posts/71,314,0,0
+1791953502650,304,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-22,text,true,,1201,214,9,9,https://jsonplaceholder.typicode.com/posts/60,304,0,0
+1791953502869,319,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-24,text,true,,994,325,9,9,https://jsonplaceholder.typicode.com/posts/32,319,0,0
+1791953503148,64,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-30,text,true,,1238,214,9,9,https://jsonplaceholder.typicode.com/posts/82,64,0,0
+1791953502931,330,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-26,text,true,,2561,223,9,9,https://jsonplaceholder.typicode.com/posts/95/comments,330,0,0
+1791953502931,338,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-28,text,true,,1215,214,9,9,https://jsonplaceholder.typicode.com/posts/48,338,0,0
+1791953503024,307,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-18,text,true,,904,236,9,9,https://jsonplaceholder.typicode.com/posts/98,307,0,0
+1791953502758,573,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-29,text,true,,910,236,9,9,https://jsonplaceholder.typicode.com/posts/38,573,0,0
+1791953503195,313,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-27,text,true,,908,236,8,8,https://jsonplaceholder.typicode.com/posts/64,313,0,0
+1791953503519,83,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-30,text,true,,2639,223,8,8,https://jsonplaceholder.typicode.com/posts/82/comments,83,0,0
+1791953503257,384,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-22,text,true,,2504,223,8,8,https://jsonplaceholder.typicode.com/posts/60/comments,384,0,0
+1791953503582,86,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-28,text,true,,2666,223,8,8,https://jsonplaceholder.typicode.com/posts/48/comments,86,0,0
+1791953503644,61,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-29,text,true,,28461,211,8,8,https://jsonplaceholder.typicode.com/posts,58,0,0
+1791953503132,581,04_POST tao bai viet (/posts),201,Created,API Clients 1-19,text,true,,1146,335,8,8,https://jsonplaceholder.typicode.com/posts,581,0,0
+1791953503489,310,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-24,text,true,,902,236,8,8,https://jsonplaceholder.typicode.com/posts/32,310,0,0
+1791953503566,312,04_POST tao bai viet (/posts),201,Created,API Clients 1-26,text,true,,1146,335,7,7,https://jsonplaceholder.typicode.com/posts,312,0,0
+1791953503816,74,01_GET danh sach bai viet (/posts),200,OK,API Clients 1-27,text,true,,28469,211,7,7,https://jsonplaceholder.typicode.com/posts,74,0,0
+1791953503908,295,04_POST tao bai viet (/posts),201,Created,API Clients 1-30,text,true,,1144,335,7,7,https://jsonplaceholder.typicode.com/posts,295,0,0
+1791953504191,69,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-27,text,true,,1298,214,7,7,https://jsonplaceholder.typicode.com/posts/63,69,0,0
+1791953503957,307,04_POST tao bai viet (/posts),201,Created,API Clients 1-22,text,true,,1154,335,7,7,https://jsonplaceholder.typicode.com/posts,307,0,0
+1791953503971,310,04_POST tao bai viet (/posts),201,Created,API Clients 1-28,text,true,,1153,336,7,7,https://jsonplaceholder.typicode.com/posts,310,0,0
+1791953504017,315,02_GET chi tiet bai viet (/posts/{id}),200,OK,API Clients 1-29,text,true,,1216,214,7,7,https://jsonplaceholder.typicode.com/posts/73,315,0,0
+1791953504563,75,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-27,text,true,,2545,223,7,7,https://jsonplaceholder.typicode.com/posts/63/comments,75,0,0
+1791953504017,765,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-19,text,true,,992,325,7,7,https://jsonplaceholder.typicode.com/posts/15,765,0,0
+1791953504516,294,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-30,text,true,,990,325,7,7,https://jsonplaceholder.typicode.com/posts/82,294,0,0
+1791953504593,310,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-28,text,true,,996,325,7,7,https://jsonplaceholder.typicode.com/posts/48,310,0,0
+1791953504639,311,03_GET binh luan (/posts/{id}/comments),200,OK,API Clients 1-29,text,true,,2473,223,7,7,https://jsonplaceholder.typicode.com/posts/73/comments,311,0,0
+1791953504191,762,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-26,text,true,,988,325,7,7,https://jsonplaceholder.typicode.com/posts/95,762,0,0
+1791953504950,307,04_POST tao bai viet (/posts),201,Created,API Clients 1-27,text,true,,1150,335,7,7,https://jsonplaceholder.typicode.com/posts,307,0,0
+1791953504578,799,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-22,text,true,,998,325,7,7,https://jsonplaceholder.typicode.com/posts/60,799,0,0
+1791953505090,340,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-19,text,true,,908,236,7,7,https://jsonplaceholder.typicode.com/posts/15,340,0,0
+1791953505120,312,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-30,text,true,,906,236,6,6,https://jsonplaceholder.typicode.com/posts/82,312,0,0
+1791953505212,314,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-28,text,true,,908,236,5,5,https://jsonplaceholder.typicode.com/posts/48,314,0,0
+1791953505257,301,04_POST tao bai viet (/posts),201,Created,API Clients 1-29,text,true,,1148,335,4,4,https://jsonplaceholder.typicode.com/posts,301,0,0
+1791953505257,306,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-26,text,true,,910,236,4,4,https://jsonplaceholder.typicode.com/posts/95,306,0,0
+1791953505569,310,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-27,text,true,,996,325,3,3,https://jsonplaceholder.typicode.com/posts/63,310,0,0
+1791953505678,309,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-22,text,true,,904,236,3,3,https://jsonplaceholder.typicode.com/posts/60,309,0,0
+1791953506186,310,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-27,text,true,,908,236,2,2,https://jsonplaceholder.typicode.com/posts/63,310,0,0
+1791953505861,750,05_PUT cap nhat bai viet (/posts/{id}),200,OK,API Clients 1-29,text,true,,994,325,1,1,https://jsonplaceholder.typicode.com/posts/73,750,0,0
+1791953506915,293,06_DELETE xoa bai viet (/posts/{id}),200,OK,API Clients 1-29,text,true,,908,236,1,1,https://jsonplaceholder.typicode.com/posts/73,293,0,0
